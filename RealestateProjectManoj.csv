@@ -1,0 +1,881 @@
+,Plot_Specification,Construction Status,Total Area,Price per Sq ft,Location,city,Builder,BHK,price(in_lakhs)
+0,Apartment,Under Construction,1535 ,"4,200 / sq ft",Bowrampet,Hyderabad,Vajra Builders And Developers,3,64.47
+1,Apartment,Ready to move,2285 ,"8,000 / sq ft",Kukatpally,Hyderabad,Vasavi Group,3,182.0
+2,Apartment,Under Construction,1510 ,"5,800 / sq ft",Jeedimetla,Hyderabad,Riddhi Group,3,87.58
+3,Apartment,Under Construction,2655 ,"6,800 / sq ft",Attapur,Hyderabad,Theme Ambience Infrastructures,4,180.0
+4,Apartment,Under Construction,2425 ,"4,999 / sq ft",Kollur,Hyderabad,Signature Avenues,3,121.0
+5,Apartment,Under Construction,1139 ,"4,800 / sq ft",Dammaiguda,Hyderabad,Srija Infra Developers Hyderabad,2,54.67
+6,Apartment,Under Construction,1450 ,"9,310 / sq ft",Kukatpally,Hyderabad,Cyber City Oriana,2,135.0
+7,Apartment,Under Construction,1515 ,"4,699 / sq ft",Kompally,Hyderabad,Primark Projects Pvt Ltd,3,71.18
+8,Apartment,Under Construction,2294 ,"9,546 / sq ft",Sanath Nagar,Hyderabad,Kalpataru Group,3,219.0
+9,Apartment,Under Construction,2195 ,"6,100 / sq ft",Sainikpuri,Hyderabad,Om Sree Builders And Developers,3,133.0
+10,Apartment,Under Construction,2000 ,"3,499 / sq ft",Kollur,Hyderabad,GSR Group,3,69.98
+11,Apartment,Under Construction,2187 ,"4,999 / sq ft",Mallapur,Hyderabad,EAPL Group,3,109.0
+12,Apartment,Under Construction,1105 ,"4,900 / sq ft",Ameenpur,Hyderabad,Lalitha Construction and Developers,2,54.14
+13,Apartment,Under Construction,1116 ,"4,200 / sq ft",Gundlapochampally,Hyderabad,Eco Green Builders,2,46.87
+14,Apartment,Under Construction,2160 ,"5,500 / sq ft",Kompally,Hyderabad,Sunder Homes,3,118.0
+15,Villa,Under Construction,9000 ,"10,334 / sq ft",Harshaguda,Hyderabad,Nest Makers,5,930.0
+16,Apartment,Under Construction,1195 ,"5,199 / sq ft",Kollur,Hyderabad,GHR Infra,2,62.12
+17,Apartment,Under Construction,1039 ,"4,804 / sq ft",Bachupally,Hyderabad,Dinesh Projects,2,49.86
+18,Apartment,Under Construction,1285 ,"5,799 / sq ft",Patighanpur,Hyderabad,Hallmark Builders,2,74.51
+19,Apartment,Under Construction,1705 ,"6,000 / sq ft",Saidabad,Hyderabad,Namishree Infrastructure And Project Pvt Ltd,3,102.0
+20,Apartment,Under Construction,1870 ,"6,500 / sq ft",Nizampet,Hyderabad,Vazhraa Nirmaan Pvt Ltd,3,121.0
+21,Apartment,Under Construction,1595 ,"4,998 / sq ft",Kollur,Hyderabad,Ira Reality,3,79.71
+22,Apartment,Under Construction,1710 ,"7,599 / sq ft",Nanakramguda,Hyderabad,Sukhii Group,3,129.0
+23,Apartment,Under Construction,1745 ,"5,599 / sq ft",Nizampet,Hyderabad,Merlion Builders,3,97.7
+24,Apartment,Under Construction,1573 ,"8,264 / sq ft",Tellapur,Hyderabad,My Home Constructions Pvt Ltd,2,130.0
+25,Apartment,Under Construction,2440 ,"6,899 / sq ft",Attapur,Hyderabad,Shree Vasavi Developers,3,168.0
+26,Apartment,Under Construction,1275 ,"4,200 / sq ft",Bowrampet,Hyderabad,Vajra Builders And Developers,2,53.55
+27,Apartment,Ready to move,2830 ,"8,000 / sq ft",Kukatpally,Hyderabad,Vasavi Group,3,226.0
+28,Apartment,Under Construction,1975 ,"5,800 / sq ft",Jeedimetla,Hyderabad,Riddhi Group,3,114.0
+29,Apartment,Under Construction,2170 ,"6,800 / sq ft",Attapur,Hyderabad,Theme Ambience Infrastructures,3,147.0
+30,Apartment,Under Construction,1385 ,"4,999 / sq ft",Kollur,Hyderabad,Signature Avenues,2,69.23
+31,Apartment,Under Construction,1121 ,"4,800 / sq ft",Dammaiguda,Hyderabad,Srija Infra Developers Hyderabad,2,53.8
+32,Apartment,Under Construction,1550 ,"10,322 / sq ft",Kukatpally,Hyderabad,Cyber City Oriana,3,160.0
+33,Apartment,Under Construction,1225 ,"4,699 / sq ft",Kompally,Hyderabad,Primark Projects Pvt Ltd,2,57.56
+34,Apartment,Under Construction,2294 ,"9,546 / sq ft",Sanath Nagar,Hyderabad,Kalpataru Group,3,219.0
+35,Apartment,Under Construction,2130 ,"6,100 / sq ft",Sainikpuri,Hyderabad,Om Sree Builders And Developers,3,129.0
+36,Apartment,Under Construction,1275 ,"3,499 / sq ft",Kollur,Hyderabad,GSR Group,2,44.61
+37,Apartment,Under Construction,1017 ,"5,003 / sq ft",Mallapur,Hyderabad,EAPL Group,2,50.83
+38,Villa,Under Construction,2377 ,"7,067 / sq ft",Bachupally,Hyderabad,Maaruthi GroupAGENT0,3,168.0
+39,Apartment,Under Construction,1200 ,"2,583 / sq ft",Shamirpet,Hyderabad,sellerVERIFIED OWNER,2,31.0
+40,Apartment,Ready to move,1100 ,"4,545 / sq ft",Nagole,Hyderabad,sellerVERIFIED OWNER,2,50.0
+41,Apartment,Ready to move,1230 ,"4,715 / sq ft",Pragathi Nagar Kukatpally,Hyderabad,sellerVERIFIED OWNER,2,58.0
+42,Apartment,Ready to move,1398 ,"7,081 / sq ft",Nanakramguda,Hyderabad,sellerVERIFIED OWNER,1,99.0
+43,Independent,Ready to move,6122 ,"5,717 / sq ft",Meerpet,Hyderabad,sellerVERIFIED OWNER,10,350.0
+44,Independent,Ready to move,981 ,"8,664 / sq ft",Bahadurpura,Hyderabad,sellerVERIFIED OWNER,3,85.0
+45,Apartment,Ready to move,1000 ,"4,900 / sq ft",LB Nagar,Hyderabad,sellerVERIFIED OWNER,2,49.0
+46,Apartment,Under Construction,1148 ,"5,200 / sq ft",Bachupally,Hyderabad,sellerVERIFIED OWNER,2,59.69
+47,Apartment,Under Construction,2000 ,"4,500 / sq ft",Upparpally,Hyderabad,sellerVERIFIED OWNER,4,90.0
+48,Apartment,Ready to move,1600 ,"5,250 / sq ft",Gajulramaram Kukatpally,Hyderabad,sellerVERIFIED OWNER,3,84.0
+49,Apartment,Ready to move,1145 ,"5,240 / sq ft",Boduppal,Hyderabad,sellerVERIFIED OWNER,2,60.0
+50,Apartment,Under Construction,1220 ,"5,700 / sq ft",Hafeezpet,Hyderabad,sellerVERIFIED OWNER,2,69.54
+51,Independent,Under Construction,2400 ,"6,041 / sq ft",Aminpur,Hyderabad,sellerVERIFIED OWNER,3,145.0
+52,Apartment,Under Construction,1210 ,"4,008 / sq ft",Narapally,Hyderabad,sellerVERIFIED OWNER,3,48.5
+53,Villa,Under Construction,2600 ,"6,500 / sq ft",Tukkuguda,Hyderabad,sellerVERIFIED OWNER,4,169.0
+54,Villa,Under Construction,3770 ,"5,570 / sq ft",Mokila,Hyderabad,sellerVERIFIED OWNER,4,210.0
+55,Apartment,Under Construction,1390 ,"3,237 / sq ft",Medchal,Hyderabad,sellerVERIFIED OWNER,2,45.0
+56,Apartment,Under Construction,1225 ,"3,800 / sq ft",Bachupally,Hyderabad,sellerVERIFIED OWNER,2,46.55
+57,Villa,Under Construction,1700 ,"3,794 / sq ft",Ibrahimpatnam,Hyderabad,sellerVERIFIED OWNER,3,64.5
+58,Apartment,Under Construction,1200 ,"5,500 / sq ft",Narsingi,Hyderabad,sellerVERIFIED OWNER,2,66.0
+59,Apartment,Under Construction,1392 ,"5,747 / sq ft",Uppal,Hyderabad,sellerVERIFIED OWNER,3,80.0
+60,Apartment,Under Construction,1200 ,"4,900 / sq ft",Ameenpur,Hyderabad,Lalitha Construction and Developers,2,58.8
+61,Apartment,Under Construction,1486 ,"4,200 / sq ft",Gundlapochampally,Hyderabad,Eco Green Builders,3,62.41
+62,Apartment,Under Construction,1594 ,"4,200 / sq ft",Gundlapochampally,Hyderabad,Eco Green Builders,3,66.94
+63,Apartment,Under Construction,2160 ,"5,500 / sq ft",Kompally,Hyderabad,Sunder Homes,3,118.0
+64,Apartment,Under Construction,3810 ,"5,500 / sq ft",Kompally,Hyderabad,Sunder Homes,3,209.0
+65,Apartment,Under Construction,3810 ,"5,500 / sq ft",Kompally,Hyderabad,Sunder Homes,3,209.0
+66,Apartment,Under Construction,2160 ,"5,500 / sq ft",Kompally,Hyderabad,Sunder Homes,3,118.0
+67,Apartment,Under Construction,2160 ,"5,500 / sq ft",Kompally,Hyderabad,Sunder Homes,3,118.0
+68,Apartment,Under Construction,2360 ,"5,500 / sq ft",Kompally,Hyderabad,Sunder Homes,3,129.0
+69,Apartment,Under Construction,2360 ,"5,500 / sq ft",Kompally,Hyderabad,Sunder Homes,3,129.0
+70,Apartment,Under Construction,3240 ,"5,500 / sq ft",Kompally,Hyderabad,Sunder Homes,3,178.0
+71,Apartment,Under Construction,3240 ,"5,500 / sq ft",Kompally,Hyderabad,Sunder Homes,3,178.0
+72,Apartment,Under Construction,2860 ,"5,500 / sq ft",Kompally,Hyderabad,Sunder Homes,3,157.0
+73,Apartment,Under Construction,2860 ,"5,500 / sq ft",Kompally,Hyderabad,Sunder Homes,3,157.0
+74,Villa,Under Construction,7000 ,"10,114 / sq ft",Harshaguda,Hyderabad,Nest Makers,5,707.0
+75,Villa,Under Construction,5250 ,"9,429 / sq ft",Harshaguda,Hyderabad,Nest Makers,4,495.0
+76,Apartment,Under Construction,1915 ,"5,199 / sq ft",Kollur,Hyderabad,GHR Infra,3,99.56
+77,Apartment,Under Construction,1625 ,"5,199 / sq ft",Kollur,Hyderabad,GHR Infra,3,84.48
+78,Apartment,Under Construction,1430 ,"5,199 / sq ft",Kollur,Hyderabad,GHR Infra,3,74.34
+79,Apartment,Under Construction,1039 ,"4,804 / sq ft",Bachupally,Hyderabad,Dinesh Projects,2,49.86
+80,Apartment,Under Construction,1820 ,"4,802 / sq ft",Bachupally,Hyderabad,Dinesh Projects,3,87.35
+81,Apartment,Under Construction,1820 ,"4,802 / sq ft",Bachupally,Hyderabad,Dinesh Projects,3,87.35
+82,Apartment,Under Construction,1232 ,"4,803 / sq ft",Bachupally,Hyderabad,Dinesh Projects,3,59.13
+83,Apartment,Under Construction,1232 ,"4,803 / sq ft",Bachupally,Hyderabad,Dinesh Projects,3,59.13
+84,Apartment,Under Construction,1285 ,"5,799 / sq ft",Patighanpur,Hyderabad,Hallmark Builders,2,74.51
+85,Apartment,Under Construction,1585 ,"5,799 / sq ft",Patighanpur,Hyderabad,Hallmark Builders,3,91.91
+86,Apartment,Under Construction,1585 ,"5,799 / sq ft",Patighanpur,Hyderabad,Hallmark Builders,3,91.91
+87,Apartment,Under Construction,1700 ,"5,799 / sq ft",Patighanpur,Hyderabad,Hallmark Builders,3,98.58
+88,Apartment,Under Construction,1700 ,"5,799 / sq ft",Patighanpur,Hyderabad,Hallmark Builders,3,98.58
+89,Apartment,Under Construction,1612 ,"6,000 / sq ft",Saidabad,Hyderabad,Namishree Infrastructure And Project Pvt Ltd,3,96.72
+90,Apartment,Under Construction,1285 ,"6,000 / sq ft",Saidabad,Hyderabad,Namishree Infrastructure And Project Pvt Ltd,2,77.1
+91,Apartment,Under Construction,1050 ,"6,000 / sq ft",Saidabad,Hyderabad,Namishree Infrastructure And Project Pvt Ltd,2,63.0
+92,Apartment,Under Construction,1397 ,"6,000 / sq ft",Saidabad,Hyderabad,Namishree Infrastructure And Project Pvt Ltd,3,83.82
+93,Apartment,Under Construction,1395 ,"6,000 / sq ft",Saidabad,Hyderabad,Namishree Infrastructure And Project Pvt Ltd,3,83.7
+94,Apartment,Under Construction,1870 ,"6,500 / sq ft",Nizampet,Hyderabad,Vazhraa Nirmaan Pvt Ltd,3,121.0
+95,Apartment,Under Construction,1710 ,"6,500 / sq ft",Nizampet,Hyderabad,Vazhraa Nirmaan Pvt Ltd,3,111.0
+96,Apartment,Under Construction,1710 ,"6,500 / sq ft",Nizampet,Hyderabad,Vazhraa Nirmaan Pvt Ltd,3,111.0
+97,Apartment,Under Construction,1360 ,"6,500 / sq ft",Nizampet,Hyderabad,Vazhraa Nirmaan Pvt Ltd,2,88.4
+98,Apartment,Under Construction,1360 ,"6,500 / sq ft",Nizampet,Hyderabad,Vazhraa Nirmaan Pvt Ltd,2,88.4
+99,Apartment,Under Construction,1820 ,"6,500 / sq ft",Nizampet,Hyderabad,Vazhraa Nirmaan Pvt Ltd,3,118.0
+100,Apartment,Under Construction,1820 ,"6,500 / sq ft",Nizampet,Hyderabad,Vazhraa Nirmaan Pvt Ltd,3,118.0
+101,Apartment,Under Construction,1255 ,"6,500 / sq ft",Nizampet,Hyderabad,Vazhraa Nirmaan Pvt Ltd,2,81.57
+102,Apartment,Under Construction,1255 ,"6,500 / sq ft",Nizampet,Hyderabad,Vazhraa Nirmaan Pvt Ltd,2,81.57
+103,Apartment,Under Construction,1270 ,"6,500 / sq ft",Nizampet,Hyderabad,Vazhraa Nirmaan Pvt Ltd,2,82.55
+104,Apartment,Under Construction,1270 ,"6,500 / sq ft",Nizampet,Hyderabad,Vazhraa Nirmaan Pvt Ltd,2,82.55
+105,Apartment,Under Construction,1105 ,"4,999 / sq ft",Kollur,Hyderabad,Ira Reality,2,55.23
+106,Apartment,Under Construction,1105 ,"4,999 / sq ft",Kollur,Hyderabad,Ira Reality,2,55.23
+107,Apartment,Under Construction,1710 ,"7,599 / sq ft",Nanakramguda,Hyderabad,Sukhii Group,3,129.0
+108,Apartment,Under Construction,1315 ,"7,599 / sq ft",Nanakramguda,Hyderabad,Sukhii Group,2,99.92
+109,Apartment,Under Construction,1315 ,"7,599 / sq ft",Nanakramguda,Hyderabad,Sukhii Group,2,99.92
+110,Apartment,Under Construction,2230 ,"7,599 / sq ft",Nanakramguda,Hyderabad,Sukhii Group,4,169.0
+111,Apartment,Under Construction,2230 ,"7,599 / sq ft",Nanakramguda,Hyderabad,Sukhii Group,4,169.0
+112,Apartment,Under Construction,1500 ,"7,599 / sq ft",Nanakramguda,Hyderabad,Sukhii Group,3,113.0
+113,Apartment,Under Construction,1500 ,"7,599 / sq ft",Nanakramguda,Hyderabad,Sukhii Group,3,113.0
+114,Apartment,Under Construction,1595 ,"4,998 / sq ft",Kollur,Hyderabad,Ira Reality,3,79.71
+115,Apartment,Under Construction,2195 ,"4,998 / sq ft",Kollur,Hyderabad,Ira Reality,3,109.0
+116,Apartment,Under Construction,2195 ,"4,998 / sq ft",Kollur,Hyderabad,Ira Reality,3,109.0
+117,Apartment,Under Construction,1495 ,"4,998 / sq ft",Kollur,Hyderabad,Ira Reality,3,74.72
+118,Apartment,Under Construction,1495 ,"4,998 / sq ft",Kollur,Hyderabad,Ira Reality,3,74.72
+119,Apartment,Under Construction,1895 ,"4,998 / sq ft",Kollur,Hyderabad,Ira Reality,3,94.71
+120,Apartment,Under Construction,1895 ,"4,998 / sq ft",Kollur,Hyderabad,Ira Reality,3,94.71
+121,Apartment,Under Construction,1620 ,"5,599 / sq ft",Nizampet,Hyderabad,Merlion Builders,3,90.7
+122,Apartment,Under Construction,1275 ,"5,600 / sq ft",Nizampet,Hyderabad,Merlion Builders,2,71.41
+123,Apartment,Under Construction,1853 ,"5,599 / sq ft",Nizampet,Hyderabad,Merlion Builders,3,103.0
+124,Apartment,Under Construction,2262 ,"7,515 / sq ft",Tellapur,Hyderabad,My Home Constructions Pvt Ltd,3,170.0
+125,Apartment,Ready to move,1220 ,"5,655 / sq ft",Miyapur,Hyderabad,Maaruthi GroupAGENT0,2,69.0
+126,Apartment,Under Construction,1615 ,"6,899 / sq ft",Attapur,Hyderabad,Shree Vasavi Developers,3,111.0
+127,Apartment,Under Construction,2120 ,"6,899 / sq ft",Attapur,Hyderabad,Shree Vasavi Developers,3,146.0
+128,Apartment,Under Construction,2840 ,"6,899 / sq ft",Attapur,Hyderabad,Shree Vasavi Developers,3,195.0
+129,Apartment,Under Construction,2710 ,"6,899 / sq ft",Attapur,Hyderabad,Shree Vasavi Developers,3,186.0
+130,Apartment,Under Construction,2180 ,"6,899 / sq ft",Attapur,Hyderabad,Shree Vasavi Developers,3,150.0
+131,Apartment,Under Construction,1750 ,"6,899 / sq ft",Attapur,Hyderabad,Shree Vasavi Developers,3,120.0
+132,Apartment,Under Construction,2260 ,"6,899 / sq ft",Attapur,Hyderabad,Shree Vasavi Developers,3,155.0
+133,Apartment,Under Construction,2135 ,"6,899 / sq ft",Attapur,Hyderabad,Shree Vasavi Developers,3,147.0
+134,Apartment,Under Construction,1395 ,"6,899 / sq ft",Attapur,Hyderabad,Shree Vasavi Developers,3,96.24
+135,Apartment,Under Construction,1675 ,"4,200 / sq ft",Bowrampet,Hyderabad,Vajra Builders And Developers,3,70.35
+136,Apartment,Ready to move,2830 ,"8,000 / sq ft",Kukatpally,Hyderabad,Vasavi Group,3,226.0
+137,Apartment,Ready to move,2300 ,"8,000 / sq ft",Kukatpally,Hyderabad,Vasavi Group,3,184.0
+138,Apartment,Ready to move,2300 ,"8,000 / sq ft",Kukatpally,Hyderabad,Vasavi Group,3,184.0
+139,Apartment,Ready to move,1775 ,"8,000 / sq ft",Kukatpally,Hyderabad,Vasavi Group,3,142.0
+140,Apartment,Ready to move,1775 ,"8,000 / sq ft",Kukatpally,Hyderabad,Vasavi Group,3,142.0
+141,Apartment,Ready to move,3205 ,"8,000 / sq ft",Kukatpally,Hyderabad,Vasavi Group,3,256.0
+142,Apartment,Ready to move,3205 ,"8,000 / sq ft",Kukatpally,Hyderabad,Vasavi Group,3,256.0
+143,Apartment,Ready to move,1750 ,"8,000 / sq ft",Kukatpally,Hyderabad,Vasavi Group,3,140.0
+144,Apartment,Ready to move,1750 ,"8,000 / sq ft",Kukatpally,Hyderabad,Vasavi Group,3,140.0
+145,Apartment,Ready to move,1955 ,"8,000 / sq ft",Kukatpally,Hyderabad,Vasavi Group,3,156.0
+146,Apartment,Ready to move,1955 ,"8,000 / sq ft",Kukatpally,Hyderabad,Vasavi Group,3,156.0
+147,Apartment,Ready to move,2405 ,"8,000 / sq ft",Kukatpally,Hyderabad,Vasavi Group,3,192.0
+148,Apartment,Ready to move,2405 ,"8,000 / sq ft",Kukatpally,Hyderabad,Vasavi Group,3,192.0
+149,Apartment,Ready to move,2090 ,"8,000 / sq ft",Kukatpally,Hyderabad,Vasavi Group,3,167.0
+150,Apartment,Ready to move,2090 ,"8,000 / sq ft",Kukatpally,Hyderabad,Vasavi Group,3,167.0
+151,Apartment,Ready to move,2100 ,"8,000 / sq ft",Kukatpally,Hyderabad,Vasavi Group,3,168.0
+152,Apartment,Ready to move,2100 ,"8,000 / sq ft",Kukatpally,Hyderabad,Vasavi Group,3,168.0
+153,Apartment,Ready to move,1810 ,"8,000 / sq ft",Kukatpally,Hyderabad,Vasavi Group,3,144.0
+154,Apartment,Ready to move,1810 ,"8,000 / sq ft",Kukatpally,Hyderabad,Vasavi Group,3,144.0
+155,Apartment,Ready to move,2760 ,"8,000 / sq ft",Kukatpally,Hyderabad,Vasavi Group,3,220.0
+156,Apartment,Ready to move,2760 ,"8,000 / sq ft",Kukatpally,Hyderabad,Vasavi Group,3,220.0
+157,Apartment,Ready to move,1940 ,"8,000 / sq ft",Kukatpally,Hyderabad,Vasavi Group,3,155.0
+158,Apartment,Ready to move,1940 ,"8,000 / sq ft",Kukatpally,Hyderabad,Vasavi Group,3,155.0
+159,Apartment,Ready to move,2075 ,"8,000 / sq ft",Kukatpally,Hyderabad,Vasavi Group,3,166.0
+160,Apartment,Ready to move,2075 ,"8,000 / sq ft",Kukatpally,Hyderabad,Vasavi Group,3,166.0
+161,Apartment,Under Construction,1910 ,"5,800 / sq ft",Jeedimetla,Hyderabad,Riddhi Group,3,110.0
+162,Apartment,Under Construction,2040 ,"5,800 / sq ft",Jeedimetla,Hyderabad,Riddhi Group,3,118.0
+163,Apartment,Under Construction,2910 ,"5,800 / sq ft",Jeedimetla,Hyderabad,Riddhi Group,4,168.0
+164,Apartment,Under Construction,1980 ,"5,800 / sq ft",Jeedimetla,Hyderabad,Riddhi Group,3,114.0
+165,Apartment,Under Construction,2030 ,"5,800 / sq ft",Jeedimetla,Hyderabad,Riddhi Group,3,117.0
+166,Apartment,Under Construction,1100 ,"5,800 / sq ft",Jeedimetla,Hyderabad,Riddhi Group,2,63.8
+167,Apartment,Under Construction,1830 ,"5,800 / sq ft",Jeedimetla,Hyderabad,Riddhi Group,3,106.0
+168,Apartment,Under Construction,1230 ,"5,800 / sq ft",Jeedimetla,Hyderabad,Riddhi Group,2,71.34
+169,Apartment,Under Construction,1605 ,"5,800 / sq ft",Jeedimetla,Hyderabad,Riddhi Group,3,93.09
+170,Apartment,Under Construction,2080 ,"5,800 / sq ft",Jeedimetla,Hyderabad,Riddhi Group,3,120.0
+171,Apartment,Under Construction,2495 ,"5,800 / sq ft",Jeedimetla,Hyderabad,Riddhi Group,3,144.0
+172,Apartment,Under Construction,1195 ,"5,800 / sq ft",Jeedimetla,Hyderabad,Riddhi Group,2,69.31
+173,Apartment,Under Construction,3030 ,"5,800 / sq ft",Jeedimetla,Hyderabad,Riddhi Group,4,175.0
+174,Apartment,Under Construction,1915 ,"5,800 / sq ft",Jeedimetla,Hyderabad,Riddhi Group,3,111.0
+175,Apartment,Under Construction,2590 ,"5,800 / sq ft",Jeedimetla,Hyderabad,Riddhi Group,3,150.0
+176,Apartment,Under Construction,3150 ,"5,800 / sq ft",Jeedimetla,Hyderabad,Riddhi Group,4,182.0
+177,Apartment,Under Construction,2200 ,"5,800 / sq ft",Jeedimetla,Hyderabad,Riddhi Group,3,127.0
+178,Apartment,Under Construction,1135 ,"5,800 / sq ft",Jeedimetla,Hyderabad,Riddhi Group,2,65.83
+179,Apartment,Under Construction,1865 ,"5,800 / sq ft",Jeedimetla,Hyderabad,Riddhi Group,3,108.0
+180,Apartment,Ready to move,1285 ,"6,300 / sq ft",Puppalaguda,Hyderabad,Riddhi Group,2,80.95
+181,Apartment,Ready to move,1700 ,"6,300 / sq ft",Puppalaguda,Hyderabad,Riddhi Group,3,107.0
+182,Apartment,Ready to move,1298 ,"6,300 / sq ft",Puppalaguda,Hyderabad,Riddhi Group,2,81.77
+183,Apartment,Ready to move,1665 ,"6,300 / sq ft",Puppalaguda,Hyderabad,Riddhi Group,3,104.0
+184,Apartment,Under Construction,1845 ,"6,800 / sq ft",Attapur,Hyderabad,Theme Ambience Infrastructures,3,125.0
+185,Apartment,Under Construction,2250 ,"6,800 / sq ft",Attapur,Hyderabad,Theme Ambience Infrastructures,3,153.0
+186,Apartment,Under Construction,2075 ,"6,800 / sq ft",Attapur,Hyderabad,Theme Ambience Infrastructures,3,141.0
+187,Apartment,Under Construction,1875 ,"4,999 / sq ft",Kollur,Hyderabad,Signature Avenues,3,93.73
+188,Apartment,Under Construction,1550 ,"4,999 / sq ft",Kollur,Hyderabad,Signature Avenues,2,77.48
+189,Apartment,Under Construction,1820 ,"4,999 / sq ft",Kollur,Hyderabad,Signature Avenues,3,90.98
+190,Apartment,Under Construction,1420 ,"4,999 / sq ft",Kollur,Hyderabad,Signature Avenues,2,70.98
+191,Apartment,Under Construction,2200 ,"4,999 / sq ft",Kollur,Hyderabad,Signature Avenues,3,109.0
+192,Apartment,Under Construction,1400 ,"4,999 / sq ft",Kollur,Hyderabad,Signature Avenues,2,69.98
+193,Apartment,Under Construction,1635 ,"4,999 / sq ft",Kollur,Hyderabad,Signature Avenues,2,81.73
+194,Apartment,Under Construction,1060 ,"5,188 / sq ft",Pragathi Nagar Kukatpally,Hyderabad,Maaruthi GroupAGENT0,2,55.0
+195,Apartment,Under Construction,1110 ,"4,684 / sq ft",Pragathi Nagar Kukatpally,Hyderabad,Maaruthi GroupAGENT0,2,52.0
+196,Apartment,Ready to move,1110 ,"4,774 / sq ft",Pragathi Nagar Kukatpally,Hyderabad,Maaruthi GroupAGENT0,2,53.0
+197,Apartment,Ready to move,1185 ,"4,472 / sq ft",Pragathi Nagar Kukatpally,Hyderabad,Maaruthi GroupAGENT0,2,53.0
+198,Apartment,Under Construction,1125 ,"4,711 / sq ft",Pragathi Nagar Kukatpally,Hyderabad,Maaruthi GroupAGENT0,2,53.0
+199,Apartment,Ready to move,1000 ,"3,700 / sq ft",Pragathi Nagar Kukatpally,Hyderabad,Maaruthi GroupAGENT0,2,37.0
+200,Apartment,Ready to move,1000 ,"3,700 / sq ft",Pragathi Nagar Kukatpally,Hyderabad,Maaruthi GroupAGENT0,2,37.0
+201,Apartment,Ready to move,1185 ,"4,472 / sq ft",Pragathi Nagar Kukatpally,Hyderabad,Maaruthi GroupAGENT0,2,53.0
+202,Apartment,Ready to move,1000 ,"3,500 / sq ft",Pragathi Nagar Kukatpally,Hyderabad,Maaruthi GroupAGENT0,2,35.0
+203,Apartment,Ready to move,1000 ,"3,700 / sq ft",Pragathi Nagar Kukatpally,Hyderabad,Maaruthi GroupAGENT0,2,37.0
+204,Apartment,Ready to move,1195 ,"4,518 / sq ft",Pragathi Nagar Kukatpally,Hyderabad,Maaruthi GroupAGENT0,2,54.0
+205,Apartment,Ready to move,1000 ,"3,700 / sq ft",Bowrampet,Hyderabad,Maaruthi GroupAGENT0,2,37.0
+206,Apartment,Ready to move,1000 ,"3,700 / sq ft",Bowrampet,Hyderabad,Maaruthi GroupAGENT0,2,37.0
+207,Apartment,Ready to move,1000 ,"3,700 / sq ft",Bowrampet,Hyderabad,Maaruthi GroupAGENT0,2,37.0
+208,Apartment,Ready to move,1100 ,"4,727 / sq ft",Pragathi Nagar Kukatpally,Hyderabad,Maaruthi GroupAGENT0,2,52.0
+209,Villa,Under Construction,2524 ,"6,141 / sq ft",Kompally,Hyderabad,Maaruthi GroupAGENT0,3,155.0
+210,Apartment,Ready to move,1100 ,"4,818 / sq ft",Pragathi Nagar Kukatpally,Hyderabad,Maaruthi GroupAGENT0,2,53.0
+211,Apartment,Ready to move,1150 ,"3,826 / sq ft",Bachupally,Hyderabad,Maaruthi GroupAGENT0,2,44.0
+212,Villa,Ready to move,2370 ,"7,046 / sq ft",Bowrampet,Hyderabad,Maaruthi GroupAGENT0,3,167.0
+213,Apartment,Ready to move,1130 ,"5,398 / sq ft",Pragathi Nagar Kukatpally,Hyderabad,Maaruthi GroupAGENT0,2,61.0
+214,Apartment,Ready to move,1150 ,"5,913 / sq ft",Miyapur,Hyderabad,Maaruthi GroupAGENT0,2,68.0
+215,Apartment,Ready to move,1220 ,"5,614 / sq ft",Miyapur,Hyderabad,Maaruthi GroupAGENT0,2,68.5
+216,Apartment,Ready to move,1100 ,"4,818 / sq ft",Pragathi Nagar Kukatpally,Hyderabad,Maaruthi GroupAGENT0,2,53.0
+217,Apartment,Ready to move,1100 ,"4,818 / sq ft",Sultanpur,Hyderabad,Maaruthi GroupAGENT0,2,53.0
+218,Apartment,Ready to move,1110 ,"4,774 / sq ft",Pragathi Nagar Kukatpally,Hyderabad,Maaruthi GroupAGENT0,2,53.0
+219,Apartment,Ready to move,1195 ,"4,800 / sq ft",Pragathi Nagar Kukatpally,Hyderabad,Maaruthi GroupAGENT0,2,57.36
+220,Apartment,Ready to move,1595 ,"5,203 / sq ft",Hyder Nagar,Hyderabad,Maaruthi GroupAGENT0,3,83.0
+221,Apartment,Ready to move,1310 ,"5,605 / sq ft",Pragathi Nagar Kukatpally,Hyderabad,Maaruthi GroupAGENT0,2,73.43
+222,Apartment,Ready to move,1140 ,"5,087 / sq ft",Pragathi Nagar Kukatpally,Hyderabad,Maaruthi GroupAGENT0,2,58.0
+223,Apartment,Ready to move,1510 ,"4,105 / sq ft",Pragathi Nagar Kukatpally,Hyderabad,Maaruthi GroupAGENT0,3,62.0
+224,Apartment,Ready to move,1140 ,"5,175 / sq ft",Pragathi Nagar Kukatpally,Hyderabad,Maaruthi GroupAGENT0,2,59.0
+225,Apartment,Ready to move,1440 ,"4,861 / sq ft",Pragathi Nagar Kukatpally,Hyderabad,Maaruthi GroupAGENT0,3,70.0
+226,Apartment,Ready to move,1100 ,"5,090 / sq ft",Pragathi Nagar Kukatpally,Hyderabad,Maaruthi GroupAGENT0,2,56.0
+227,Apartment,Ready to move,1110 ,"5,045 / sq ft",Pragathi Nagar Kukatpally,Hyderabad,Maaruthi GroupAGENT0,2,56.0
+228,Apartment,Ready to move,1195 ,"4,800 / sq ft",Pragathi Nagar Kukatpally,Hyderabad,Maaruthi GroupAGENT0,2,57.36
+229,Apartment,Ready to move,2000 ,"5,500 / sq ft",Kukatpally,Hyderabad,Maaruthi GroupAGENT0,3,110.0
+230,Apartment,Ready to move,1060 ,"5,677 / sq ft",Kukatpally,Hyderabad,Maaruthi GroupAGENT0,2,60.18
+231,Apartment,Ready to move,1800 ,"5,522 / sq ft",Nizampet,Hyderabad,Maaruthi GroupAGENT0,2,99.4
+232,Apartment,Ready to move,1600 ,"4,156 / sq ft",Pragathi Nagar Kukatpally,Hyderabad,Maaruthi GroupAGENT0,3,66.5
+233,Apartment,Ready to move,1125 ,"5,511 / sq ft",Nizampet,Hyderabad,Maaruthi GroupAGENT0,2,62.0
+234,Apartment,Ready to move,1165 ,"4,721 / sq ft",Pragathi Nagar Kukatpally,Hyderabad,Maaruthi GroupAGENT0,2,55.0
+235,Apartment,Ready to move,1200 ,"4,250 / sq ft",Pragathi Nagar Kukatpally,Hyderabad,Maaruthi GroupAGENT0,2,51.0
+236,Apartment,Ready to move,1160 ,"5,000 / sq ft",Pragathi Nagar Kukatpally,Hyderabad,Maaruthi GroupAGENT0,2,58.0
+237,Apartment,Ready to move,1415 ,"3,957 / sq ft",Pragathi Nagar Kukatpally,Hyderabad,Maaruthi GroupAGENT0,3,56.0
+238,Apartment,Under Construction,1052 ,"4,800 / sq ft",Dammaiguda,Hyderabad,Srija Infra Developers Hyderabad,2,50.49
+239,Apartment,Under Construction,1247 ,"4,800 / sq ft",Dammaiguda,Hyderabad,Srija Infra Developers Hyderabad,2,59.85
+240,Apartment,Under Construction,1458 ,"4,800 / sq ft",Dammaiguda,Hyderabad,Srija Infra Developers Hyderabad,3,69.98
+241,Apartment,Under Construction,1200 ,"4,800 / sq ft",Dammaiguda,Hyderabad,Srija Infra Developers Hyderabad,2,57.6
+242,Apartment,Under Construction,1160 ,"10,344 / sq ft",Kukatpally,Hyderabad,Cyber City Oriana,2,120.0
+243,Apartment,Under Construction,1170 ,"4,699 / sq ft",Kompally,Hyderabad,Primark Projects Pvt Ltd,2,54.97
+244,Independent,Ready to move,750 ,"5,333 / sq ft",Abids,Hyderabad,sellerVERIFIED OWNER,1,40.0
+245,Apartment,Ready to move,1110 ,"4,999 / sq ft",Gajularamaram,Hyderabad,sellerVERIFIED OWNER,2,55.48
+246,Independent,Ready to move,1350 ,"6,444 / sq ft",Badangpet,Hyderabad,sellerVERIFIED OWNER,2,87.0
+247,Villa,Ready to move,8400 ,"25,595 / sq ft",Kokapet,Hyderabad,sellerVERIFIED OWNER,5,2150.0
+248,Apartment,Under Construction,1260 ,"4,761 / sq ft",Kollur,Hyderabad,sellerVERIFIED OWNER,2,60.0
+249,Villa,Under Construction,5300 ,"2,452 / sq ft",Kollur,Hyderabad,sellerVERIFIED OWNER,4,130.0
+250,Apartment,Ready to move,1586 ,"5,989 / sq ft",Serilingampally,Hyderabad,sellerVERIFIED OWNER,3,95.0
+251,Apartment,Under Construction,1260 ,"4,761 / sq ft",Kollur,Hyderabad,sellerVERIFIED OWNER,2,60.0
+252,Apartment,Ready to move,1850 ,"9,729 / sq ft",Nallagandla Gachibowli,Hyderabad,sellerVERIFIED OWNER,3,180.0
+253,Apartment,Under Construction,1100 ,"2,818 / sq ft",Isnapur,Hyderabad,sellerVERIFIED OWNER,2,31.0
+254,Apartment,Under Construction,2650 ,"5,849 / sq ft",Serilingampally,Hyderabad,sellerVERIFIED OWNER,3,155.0
+255,Independent,Ready to move,6000 ,"16,666 / sq ft",Moti Nagar,Hyderabad,sellerVERIFIED OWNER,5,1000.0
+256,Apartment,Under Construction,2294 ,"9,546 / sq ft",Sanath Nagar,Hyderabad,Kalpataru Group,3,219.0
+257,Apartment,Under Construction,1270 ,"9,842 / sq ft",Sanath Nagar,Hyderabad,Kalpataru Group,2,125.0
+258,Apartment,Under Construction,1270 ,"9,842 / sq ft",Sanath Nagar,Hyderabad,Kalpataru Group,2,125.0
+259,Villa,Under Construction,8500 ,"6,235 / sq ft",Kollur,Hyderabad,sellerVERIFIED OWNER,5,530.0
+260,Apartment,Under Construction,1085 ,"6,635 / sq ft",Kokapet,Hyderabad,sellerVERIFIED OWNER,2,72.0
+261,Apartment,Under Construction,1215 ,"5,925 / sq ft",Miyapur,Hyderabad,sellerVERIFIED OWNER,2,72.0
+262,Apartment,Under Construction,1070 ,"2,990 / sq ft",Isnapur,Hyderabad,sellerVERIFIED OWNER,2,32.0
+263,Apartment,Under Construction,1125 ,"3,377 / sq ft",Medchal,Hyderabad,sellerVERIFIED OWNER,2,38.0
+264,Apartment,Ready to move,1686 ,"5,338 / sq ft",Qutub Shahi Tombs,Hyderabad,sellerVERIFIED OWNER,3,90.0
+265,Villa,Ready to move,3788 ,"8,500 / sq ft",Mokila,Hyderabad,sellerVERIFIED OWNER,4,322.0
+266,Apartment,Under Construction,1575 ,"5,460 / sq ft",Kukatpally,Hyderabad,sellerVERIFIED OWNER,3,86.0
+267,Apartment,Under Construction,1550 ,"4,451 / sq ft",Suraram,Hyderabad,sellerVERIFIED OWNER,3,69.0
+268,Apartment,Ready to move,1765 ,"5,489 / sq ft",Kompally,Hyderabad,sellerVERIFIED OWNER,3,96.89
+269,Apartment,Under Construction,1190 ,"4,699 / sq ft",Pragathi Nagar Kukatpally,Hyderabad,sellerVERIFIED OWNER,2,55.91
+270,Apartment,Under Construction,1090 ,"3,486 / sq ft",Shamirpet,Hyderabad,sellerVERIFIED OWNER,2,38.0
+271,Independent,Ready to move,1080 ,"4,351 / sq ft",Malakpet,Hyderabad,sellerVERIFIED OWNER,3,47.0
+272,Apartment,Under Construction,918 ,"7,080 / sq ft",Miyapur,Hyderabad,sellerVERIFIED OWNER,2,65.0
+273,Apartment,Under Construction,960 ,"4,010 / sq ft",Isnapur,Hyderabad,sellerVERIFIED OWNER,2,38.5
+274,Apartment,Under Construction,1500 ,"4,000 / sq ft",Miyapur,Hyderabad,sellerVERIFIED OWNER,3,60.0
+275,Apartment,Ready to move,1140 ,"5,000 / sq ft",Mallampet,Hyderabad,sellerVERIFIED OWNER,2,57.0
+276,Independent,Under Construction,1350 ,"11,111 / sq ft",Boduppal,Hyderabad,sellerVERIFIED OWNER,2,150.0
+277,Apartment,Under Construction,960 ,"4,010 / sq ft",Isnapur,Hyderabad,sellerVERIFIED OWNER,2,38.5
+278,Apartment,Ready to move,1635 ,"5,000 / sq ft",Alwal,Hyderabad,sellerVERIFIED OWNER,3,81.75
+279,Apartment,Ready to move,1230 ,"5,040 / sq ft",Aminpur,Hyderabad,sellerVERIFIED OWNER,2,62.0
+280,Villa,Under Construction,3161 ,"9,490 / sq ft",Manneguda,Hyderabad,sellerVERIFIED OWNER,4,300.0
+281,Apartment,Ready to move,600 ,"12,500 / sq ft",Alwal,Hyderabad,sellerVERIFIED OWNER,3,75.0
+282,Villa,Under Construction,2000 ,"3,750 / sq ft",Patancheru,Hyderabad,sellerVERIFIED OWNER,4,75.0
+283,Apartment,Ready to move,2695 ,"9,148 / sq ft",Hitech City,Hyderabad,sellerVERIFIED OWNER,4,246.0
+284,Independent,Ready to move,2050 ,"6,585 / sq ft",Alwal,Hyderabad,sellerVERIFIED OWNER,3,135.0
+285,Apartment,Under Construction,1380 ,"6,521 / sq ft",Manikonda,Hyderabad,sellerVERIFIED OWNER,2,90.0
+286,Apartment,Under Construction,1265 ,"3,500 / sq ft",Kollur,Hyderabad,sellerVERIFIED OWNER,2,44.27
+287,Apartment,Under Construction,2140 ,"6,100 / sq ft",Sainikpuri,Hyderabad,Om Sree Builders And Developers,3,130.0
+288,Villa,Under Construction,2000 ,"4,750 / sq ft",Isnapur,Hyderabad,sellerVERIFIED OWNER,3,95.0
+289,Apartment,Ready to move,1450 ,"4,620 / sq ft",Sri Nagar Colony,Hyderabad,sellerVERIFIED OWNER,3,67.0
+290,Apartment,Under Construction,1140 ,"2,500 / sq ft",Velimela,Hyderabad,sellerVERIFIED OWNER,2,28.5
+291,Independent,Ready to move,2200 ,"5,681 / sq ft",Bolarum,Hyderabad,sellerVERIFIED OWNER,2,125.0
+292,Independent,Ready to move,5550 ,"3,603 / sq ft",Saroornagar,Hyderabad,sellerVERIFIED OWNER,5,200.0
+293,Villa,Ready to move,4795 ,"13,034 / sq ft",Kompally,Hyderabad,sellerVERIFIED OWNER,8,625.0
+294,Apartment,Ready to move,1646 ,"3,645 / sq ft",B N reddy nagar,Hyderabad,sellerVERIFIED OWNER,2,59.99
+295,Independent,Under Construction,2600 ,"4,230 / sq ft",Dammaiguda,Hyderabad,sellerVERIFIED OWNER,4,110.0
+296,Apartment,Ready to move,1100 ,"6,090 / sq ft",Auto Nagar,Hyderabad,sellerVERIFIED OWNER,2,67.0
+297,Apartment,Ready to move,1460 ,"5,136 / sq ft",Nagole,Hyderabad,sellerVERIFIED OWNER,3,75.0
+298,Apartment,Under Construction,840 ,"3,998 / sq ft",Isnapur,Hyderabad,sellerVERIFIED OWNER,2,33.59
+299,Villa,Ready to move,2400 ,"5,291 / sq ft",Patancheru,Hyderabad,sellerVERIFIED OWNER,3,127.0
+300,Apartment,Ready to move,1798 ,"9,733 / sq ft",Kondapur,Hyderabad,sellerVERIFIED OWNER,2,175.0
+301,Apartment,Ready to move,1297 ,"9,637 / sq ft",Kondapur,Hyderabad,sellerVERIFIED OWNER,2,125.0
+302,Independent,Ready to move,999 ,"9,009 / sq ft",Borabanda,Hyderabad,sellerVERIFIED OWNER,2,90.0
+303,Independent,Ready to move,1550 ,"5,483 / sq ft",Kukatpally,Hyderabad,sellerVERIFIED OWNER,3,85.0
+304,Apartment,Ready to move,1400 ,"5,357 / sq ft",Alwal,Hyderabad,sellerVERIFIED OWNER,3,75.0
+305,Apartment,Ready to move,1800 ,"11,111 / sq ft",Kondapur,Hyderabad,sellerVERIFIED OWNER,3,200.0
+306,Independent,Ready to move,2700 ,"4,074 / sq ft",Adibatla,Hyderabad,sellerVERIFIED OWNER,3,110.0
+307,Apartment,Ready to move,1271 ,"5,900 / sq ft",Bandlaguda Jagir,Hyderabad,sellerVERIFIED OWNER,2,75.0
+308,Apartment,Ready to move,1045 ,"4,300 / sq ft",Aminpur,Hyderabad,sellerVERIFIED OWNER,2,44.93
+309,Apartment,Ready to move,990 ,"4,242 / sq ft",Gagillapur,Hyderabad,sellerVERIFIED OWNER,2,42.0
+310,Apartment,Ready to move,1160 ,"4,344 / sq ft",Gundlapochampalli,Hyderabad,sellerVERIFIED OWNER,2,50.4
+311,Independent,Ready to move,5500 ,"10,909 / sq ft",Bowenpally,Hyderabad,sellerVERIFIED OWNER,4,600.0
+312,Independent,Ready to move,1250 ,"7,680 / sq ft",Krishna Reddy Pet,Hyderabad,sellerVERIFIED OWNER,2,96.0
+313,Apartment,Under Construction,2055 ,"7,883 / sq ft",Kondapur,Hyderabad,sellerVERIFIED OWNER,2,162.0
+314,Apartment,Under Construction,1728 ,"5,596 / sq ft",Gandipet,Hyderabad,sellerVERIFIED OWNER,3,96.7
+315,Apartment,Ready to move,1090 ,"4,862 / sq ft",Kukatpally,Hyderabad,sellerVERIFIED OWNER,2,53.0
+316,Villa,Ready to move,6500 ,"23,046 / sq ft",Serilingampally,Hyderabad,sellerVERIFIED OWNER,5,1498.0
+317,Apartment,Ready to move,1050 ,"4,714 / sq ft",Kompally,Hyderabad,sellerVERIFIED OWNER,2,49.5
+318,Apartment,Ready to move,1726 ,"5,880 / sq ft",Kompally,Hyderabad,sellerVERIFIED OWNER,3,101.0
+319,Apartment,Ready to move,1145 ,"5,502 / sq ft",Bolarum,Hyderabad,sellerVERIFIED OWNER,2,63.0
+320,Apartment,Ready to move,1470 ,"6,258 / sq ft",Kondapur,Hyderabad,sellerVERIFIED OWNER,3,92.0
+321,Villa,Ready to move,3200 ,"5,937 / sq ft",Kapra,Hyderabad,sellerVERIFIED OWNER,4,190.0
+322,Apartment,Ready to move,1200 ,"6,500 / sq ft",Kondapur,Hyderabad,sellerVERIFIED OWNER,2,78.0
+323,Apartment,Ready to move,1600 ,"8,437 / sq ft",Narsingi,Hyderabad,sellerVERIFIED OWNER,3,135.0
+324,Apartment,Ready to move,1269 ,"7,092 / sq ft",Appa Junction Peerancheru,Hyderabad,sellerVERIFIED OWNER,2,90.0
+325,Villa,Under Construction,3840 ,"5,989 / sq ft",Velimela,Hyderabad,sellerVERIFIED OWNER,4,230.0
+326,Apartment,Ready to move,971 ,"3,810 / sq ft",Kothapet,Hyderabad,sellerVERIFIED OWNER,2,37.0
+327,Apartment,Ready to move,1440 ,"6,597 / sq ft",Nallagandla Gachibowli,Hyderabad,sellerVERIFIED OWNER,3,95.0
+328,Independent,Ready to move,1700 ,"3,411 / sq ft",Jadcherla,Hyderabad,sellerVERIFIED OWNER,3,58.0
+329,Independent,Ready to move,800 ,"6,875 / sq ft",Laxmiguda,Hyderabad,sellerVERIFIED OWNER,2,55.0
+330,Apartment,Under Construction,1010 ,"6,534 / sq ft",Osman Nagar,Hyderabad,sellerVERIFIED OWNER,2,66.0
+331,Independent,Ready to move,1250 ,"5,848 / sq ft",Kundanpally,Hyderabad,sellerVERIFIED OWNER,2,73.1
+332,Apartment,Under Construction,1200 ,"3,000 / sq ft",Kollur,Hyderabad,sellerVERIFIED OWNER,2,36.0
+333,Apartment,Under Construction,1223 ,"4,554 / sq ft",Nacharam,Hyderabad,sellerVERIFIED OWNER,2,55.7
+334,Apartment,Ready to move,1620 ,"6,234 / sq ft",Attapur,Hyderabad,sellerVERIFIED OWNER,3,101.0
+335,Independent,Under Construction,1320 ,"5,151 / sq ft",muthangi,Hyderabad,sellerVERIFIED OWNER,2,68.0
+336,Apartment,Ready to move,843 ,"4,744 / sq ft",Thumkunta,Hyderabad,sellerVERIFIED OWNER,2,40.0
+337,Apartment,Ready to move,800 ,"3,875 / sq ft",Ramachandra Puram,Hyderabad,sellerVERIFIED OWNER,2,31.0
+338,Apartment,Ready to move,1000 ,"4,800 / sq ft",Mehdipatnam,Hyderabad,sellerVERIFIED OWNER,4,48.0
+339,Apartment,Ready to move,1150 ,"8,000 / sq ft",Madhapur,Hyderabad,sellerVERIFIED OWNER,2,92.0
+340,Apartment,Under Construction,1350 ,"4,074 / sq ft",Manikonda,Hyderabad,sellerVERIFIED OWNER,2,55.0
+341,Apartment,Under Construction,5080 ,"7,999 / sq ft",Gandipet,Hyderabad,Hallmark Builders,4,406.0
+342,Apartment,Under Construction,5080 ,"7,999 / sq ft",Gandipet,Hyderabad,Hallmark Builders,4,406.0
+343,Apartment,Under Construction,2040 ,"7,999 / sq ft",Gandipet,Hyderabad,Hallmark Builders,3,163.0
+344,Apartment,Under Construction,2040 ,"7,999 / sq ft",Gandipet,Hyderabad,Hallmark Builders,3,163.0
+345,Apartment,Under Construction,4080 ,"7,999 / sq ft",Gandipet,Hyderabad,Hallmark Builders,4,326.0
+346,Apartment,Under Construction,4080 ,"7,999 / sq ft",Gandipet,Hyderabad,Hallmark Builders,4,326.0
+347,Apartment,Under Construction,5080 ,"7,999 / sq ft",Gandipet,Hyderabad,Hallmark Builders,4,406.0
+348,Apartment,Under Construction,5080 ,"7,999 / sq ft",Gandipet,Hyderabad,Hallmark Builders,4,406.0
+349,Apartment,Under Construction,2040 ,"7,999 / sq ft",Gandipet,Hyderabad,Hallmark Builders,3,163.0
+350,Apartment,Under Construction,2040 ,"7,999 / sq ft",Gandipet,Hyderabad,Hallmark Builders,3,163.0
+351,Apartment,Under Construction,4080 ,"7,999 / sq ft",Gandipet,Hyderabad,Hallmark Builders,4,326.0
+352,Apartment,Under Construction,4080 ,"7,999 / sq ft",Gandipet,Hyderabad,Hallmark Builders,4,326.0
+353,Apartment,Under Construction,2400 ,"7,999 / sq ft",Gandipet,Hyderabad,Hallmark Builders,3,191.0
+354,Apartment,Under Construction,2400 ,"7,999 / sq ft",Gandipet,Hyderabad,Hallmark Builders,3,191.0
+355,Apartment,Under Construction,3342 ,"7,999 / sq ft",Gandipet,Hyderabad,Hallmark Builders,4,267.0
+356,Apartment,Under Construction,3342 ,"7,999 / sq ft",Gandipet,Hyderabad,Hallmark Builders,4,267.0
+357,Apartment,Under Construction,2540 ,"7,999 / sq ft",Gandipet,Hyderabad,Hallmark Builders,3,203.0
+358,Apartment,Under Construction,2540 ,"7,999 / sq ft",Gandipet,Hyderabad,Hallmark Builders,3,203.0
+359,Apartment,Under Construction,1765 ,"7,999 / sq ft",Gandipet,Hyderabad,Hallmark Builders,3,141.0
+360,Apartment,Under Construction,1765 ,"7,999 / sq ft",Gandipet,Hyderabad,Hallmark Builders,3,141.0
+361,Apartment,Under Construction,1895 ,"7,999 / sq ft",Gandipet,Hyderabad,Hallmark Builders,3,151.0
+362,Apartment,Under Construction,1895 ,"7,999 / sq ft",Gandipet,Hyderabad,Hallmark Builders,3,151.0
+363,Apartment,Ready to move,1200 ,"4,500 / sq ft",Pragathi Nagar Kukatpally,Hyderabad,sellerVERIFIED OWNER,2,54.0
+364,Apartment,Ready to move,1120 ,"5,000 / sq ft",Kukatpally,Hyderabad,sellerVERIFIED OWNER,2,56.0
+365,Independent,Under Construction,1350 ,"6,888 / sq ft",Krishna Reddy Pet,Hyderabad,sellerVERIFIED OWNER,4,93.0
+366,Villa,Under Construction,2200 ,"6,318 / sq ft",Bongloor,Hyderabad,sellerVERIFIED OWNER,3,139.0
+367,Apartment,Under Construction,1205 ,"5,643 / sq ft",Bachupally,Hyderabad,sellerVERIFIED OWNER,2,68.0
+368,Independent,Under Construction,1030 ,"9,223 / sq ft",Hayathnagar,Hyderabad,sellerVERIFIED OWNER,3,95.0
+369,Apartment,Ready to move,1252 ,"4,952 / sq ft",Happy Homes Colony,Hyderabad,sellerVERIFIED OWNER,2,62.0
+370,Independent,Ready to move,4300 ,"4,069 / sq ft",Alwal,Hyderabad,sellerVERIFIED OWNER,6,175.0
+371,Apartment,Ready to move,1190 ,"5,495 / sq ft",Kapra,Hyderabad,sellerVERIFIED OWNER,2,65.4
+372,Apartment,Ready to move,1500 ,"7,200 / sq ft",Kukatpally,Hyderabad,sellerVERIFIED OWNER,3,108.0
+373,Apartment,Under Construction,2625 ,"3,499 / sq ft",Kollur,Hyderabad,GSR Group,3,91.84
+374,Apartment,Under Construction,1185 ,"3,499 / sq ft",Kollur,Hyderabad,GSR Group,2,41.46
+375,Apartment,Under Construction,1550 ,"3,499 / sq ft",Kollur,Hyderabad,GSR Group,3,54.23
+376,Apartment,Under Construction,1050 ,"3,499 / sq ft",Kollur,Hyderabad,GSR Group,2,36.73
+377,Apartment,Under Construction,1780 ,"3,499 / sq ft",Kollur,Hyderabad,GSR Group,3,62.28
+378,Apartment,Under Construction,1300 ,"3,499 / sq ft",Kollur,Hyderabad,GSR Group,2,45.48
+379,Apartment,Ready to move,1267 ,"4,900 / sq ft",Bachupally,Hyderabad,sellerVERIFIED OWNER,2,62.08
+380,Apartment,Under Construction,1200 ,"4,833 / sq ft",Pragathi Nagar Kukatpally,Hyderabad,sellerVERIFIED OWNER,2,58.0
+381,Apartment,Ready to move,1509 ,"4,506 / sq ft",Kapra,Hyderabad,sellerVERIFIED OWNER,3,68.0
+382,Apartment,Ready to move,1080 ,"5,925 / sq ft",Malkajgiri,Hyderabad,sellerVERIFIED OWNER,2,64.0
+383,Independent,Ready to move,3500 ,"7,142 / sq ft",Kushaiguda,Hyderabad,sellerVERIFIED OWNER,6,250.0
+384,Independent,Ready to move,1000 ,"4,250 / sq ft",Balapur,Hyderabad,sellerVERIFIED OWNER,3,42.5
+385,Apartment,Ready to move,5180 ,"4,826 / sq ft",Chintalmet,Hyderabad,sellerVERIFIED OWNER,4,250.0
+386,Apartment,Ready to move,1450 ,"5,793 / sq ft",Kukatpally,Hyderabad,sellerVERIFIED OWNER,2,84.0
+387,Villa,Ready to move,1800 ,"3,833 / sq ft",Medchal,Hyderabad,sellerVERIFIED OWNER,3,69.0
+388,Apartment,Ready to move,1655 ,"9,063 / sq ft",Somajiguda,Hyderabad,sellerVERIFIED OWNER,3,150.0
+389,Apartment,Ready to move,1368 ,"6,359 / sq ft",Manikonda,Hyderabad,sellerVERIFIED OWNER,3,87.0
+390,Independent,Ready to move,835 ,"5,389 / sq ft",Shamirpet,Hyderabad,sellerVERIFIED OWNER,2,45.0
+391,Apartment,Under Construction,1700 ,"5,700 / sq ft",Balanagar,Hyderabad,sellerVERIFIED OWNER,3,96.9
+392,Apartment,Under Construction,1500 ,"6,666 / sq ft",Chandanagar,Hyderabad,sellerVERIFIED OWNER,3,100.0
+393,Apartment,Ready to move,1250 ,"6,400 / sq ft",Laxmiguda,Hyderabad,sellerVERIFIED OWNER,3,80.0
+394,Villa,Under Construction,1450 ,"6,758 / sq ft",Dammaiguda,Hyderabad,sellerVERIFIED OWNER,3,98.0
+395,Apartment,Under Construction,950 ,"4,315 / sq ft",Bachupally,Hyderabad,Vasavi Group,2,41.0
+396,Apartment,Under Construction,975 ,"4,307 / sq ft",Bachupally,Hyderabad,Vasavi Group,2,42.0
+397,Apartment,Under Construction,875 ,"4,228 / sq ft",Bachupally,Hyderabad,Vasavi Group,2,37.0
+398,Apartment,Under Construction,2810 ,"8,900 / sq ft",Hitech City,Hyderabad,Vasavi Group,3,250.0
+399,Apartment,Under Construction,3600 ,"8,900 / sq ft",Hitech City,Hyderabad,Vasavi Group,3,320.0
+400,Apartment,Under Construction,4140 ,"8,900 / sq ft",Hitech City,Hyderabad,Vasavi Group,4,368.0
+401,Apartment,Under Construction,3590 ,"8,900 / sq ft",Hitech City,Hyderabad,Vasavi Group,4,319.0
+402,Apartment,Under Construction,2290 ,"8,900 / sq ft",Hitech City,Hyderabad,Vasavi Group,3,203.0
+403,Apartment,Under Construction,2815 ,"8,900 / sq ft",Hitech City,Hyderabad,Vasavi Group,3,250.0
+404,Apartment,Under Construction,3580 ,"8,900 / sq ft",Hitech City,Hyderabad,Vasavi Group,4,318.0
+405,Apartment,Under Construction,2835 ,"8,900 / sq ft",Hitech City,Hyderabad,Vasavi Group,3,252.0
+406,Apartment,Under Construction,4200 ,"8,900 / sq ft",Hitech City,Hyderabad,Vasavi Group,4,373.0
+407,Apartment,Under Construction,2265 ,"8,900 / sq ft",Hitech City,Hyderabad,Vasavi Group,3,201.0
+408,Apartment,Under Construction,4170 ,"8,900 / sq ft",Hitech City,Hyderabad,Vasavi Group,4,371.0
+409,Apartment,Under Construction,2540 ,"8,900 / sq ft",Hitech City,Hyderabad,Vasavi Group,3,226.0
+410,Apartment,Under Construction,2535 ,"8,900 / sq ft",Hitech City,Hyderabad,Vasavi Group,3,225.0
+411,Apartment,Under Construction,2270 ,"8,900 / sq ft",Hitech City,Hyderabad,Vasavi Group,3,202.0
+412,Apartment,Under Construction,4530 ,"8,900 / sq ft",Hitech City,Hyderabad,Vasavi Group,5,403.0
+413,Apartment,Under Construction,2480 ,"8,900 / sq ft",Hitech City,Hyderabad,Vasavi Group,3,220.0
+414,Apartment,Under Construction,3005 ,"8,900 / sq ft",Hitech City,Hyderabad,Vasavi Group,3,267.0
+415,Apartment,Under Construction,5080 ,"8,900 / sq ft",Hitech City,Hyderabad,Vasavi Group,5,452.0
+416,Apartment,Under Construction,2225 ,"8,900 / sq ft",Hitech City,Hyderabad,Vasavi Group,3,198.0
+417,Apartment,Under Construction,4540 ,"8,900 / sq ft",Hitech City,Hyderabad,Vasavi Group,5,404.0
+418,Apartment,Under Construction,3030 ,"8,900 / sq ft",Hitech City,Hyderabad,Vasavi Group,3,269.0
+419,Apartment,Under Construction,2980 ,"8,900 / sq ft",Hitech City,Hyderabad,Vasavi Group,3,265.0
+420,Apartment,Under Construction,7200 ,"8,900 / sq ft",Hitech City,Hyderabad,Vasavi Group,5,640.0
+421,Apartment,Under Construction,2205 ,"8,900 / sq ft",Hitech City,Hyderabad,Vasavi Group,3,196.0
+422,Apartment,Under Construction,4410 ,"8,900 / sq ft",Hitech City,Hyderabad,Vasavi Group,4,392.0
+423,Apartment,Under Construction,3205 ,"8,900 / sq ft",Hitech City,Hyderabad,Vasavi Group,3,285.0
+424,Apartment,Under Construction,2410 ,"8,900 / sq ft",Hitech City,Hyderabad,Vasavi Group,3,214.0
+425,Apartment,Under Construction,3220 ,"8,900 / sq ft",Hitech City,Hyderabad,Vasavi Group,3,286.0
+426,Apartment,Under Construction,2125 ,"8,900 / sq ft",Hitech City,Hyderabad,Vasavi Group,3,189.0
+427,Apartment,Under Construction,2385 ,"8,900 / sq ft",Hitech City,Hyderabad,Vasavi Group,3,212.0
+428,Apartment,Under Construction,2400 ,"8,900 / sq ft",Hitech City,Hyderabad,Vasavi Group,3,213.0
+429,Apartment,Under Construction,6010 ,"8,900 / sq ft",Hitech City,Hyderabad,Vasavi Group,5,534.0
+430,Apartment,Under Construction,4450 ,"8,900 / sq ft",Hitech City,Hyderabad,Vasavi Group,5,396.0
+431,Apartment,Under Construction,4800 ,"8,900 / sq ft",Hitech City,Hyderabad,Vasavi Group,4,427.0
+432,Apartment,Under Construction,2100 ,"8,900 / sq ft",Hitech City,Hyderabad,Vasavi Group,3,186.0
+433,Apartment,Under Construction,3640 ,"8,900 / sq ft",Hitech City,Hyderabad,Vasavi Group,4,323.0
+434,Apartment,Under Construction,4770 ,"8,900 / sq ft",Hitech City,Hyderabad,Vasavi Group,5,424.0
+435,Apartment,Under Construction,6440 ,"8,900 / sq ft",Hitech City,Hyderabad,Vasavi Group,4,573.0
+436,Apartment,Under Construction,4845 ,"8,900 / sq ft",Hitech City,Hyderabad,Vasavi Group,4,431.0
+437,Apartment,Under Construction,3680 ,"8,900 / sq ft",Hitech City,Hyderabad,Vasavi Group,4,327.0
+438,Apartment,Under Construction,6410 ,"8,900 / sq ft",Hitech City,Hyderabad,Vasavi Group,5,570.0
+439,Apartment,Under Construction,3935 ,"8,900 / sq ft",Hitech City,Hyderabad,Vasavi Group,4,350.0
+440,Independent,Ready to move,1500 ,"6,533 / sq ft",Electronic City Phase 1,Bangalore,Annciya Projects LLP,4,97.99
+441,Apartment,Under Construction,1071 ,"7,831 / sq ft",Chikkanayakanahalli at Off Sarjapur,Bangalore,Mana Projects Pvt Ltd,2,83.87
+442,Apartment,Under Construction,1175 ,"6,704 / sq ft",Chikkanayakanahalli at Off Sarjapur,Bangalore,DSR Infrastructure Pvt Ltd,2,78.77
+443,Apartment,Under Construction,1641 ,"8,133 / sq ft",RR Nagar,Bangalore,Navami Builders and Developers,3,133.0
+444,Apartment,Ready to move,1017 ,"3,344 / sq ft",Sarjapur,Bangalore,Inner Urban Infraestate P Ltd,2,34.01
+445,Apartment,Under Construction,580 ,"7,239 / sq ft",Bagalur,Bangalore,Godrej Properties Ltd,2,41.99
+446,Apartment,Under Construction,1120 ,"5,565 / sq ft",Krishnarajapura,Bangalore,Sree Sai Builders,2,62.32
+447,Apartment,Under Construction,1195 ,"3,376 / sq ft",Sompura,Bangalore,Trishul Builders And Promoters,2,40.34
+448,Apartment,Under Construction,1520 ,"5,120 / sq ft",Varthur,Bangalore,Anuraag Constructions,3,77.83
+449,Apartment,Ready to move,1190 ,"5,510 / sq ft",Uttarahalli,Bangalore,Vara Constructions,2,65.57
+450,Apartment,Under Construction,1160 ,"7,330 / sq ft",Kasavanahalli,Bangalore,Essem Constructions,2,85.02
+451,Apartment,Under Construction,1203 ,"3,000 / sq ft",Electronic City Phase 1,Bangalore,DS-MAX Properties,3,36.09
+452,Apartment,Under Construction,1447 ,"6,261 / sq ft",Varthur,Bangalore,ATZ PROPERTIES,3,90.6
+453,Apartment,Ready to move,2000 ,"7,249 / sq ft",Whitefield Hope Farm Junction,Bangalore,Sumadhura Infracon Pvt Ltd,3,144.0
+454,Apartment,Under Construction,1374 ,"8,800 / sq ft",JP Nagar Phase 4,Bangalore,Esteem Group,2,120.0
+455,Apartment,Ready to move,1327 ,"4,898 / sq ft",Hennur,Bangalore,Pruthvi Projects,2,65.0
+456,Villa,Under Construction,800 ,"4,937 / sq ft",Anekal City,Bangalore,Reputed Builder,2,39.5
+457,Apartment,Under Construction,880 ,"7,916 / sq ft",Devanahalli,Bangalore,Salarpuria Sattva,3,69.66
+458,Apartment,Under Construction,1260 ,"5,999 / sq ft",Varthur,Bangalore,Parivar Housing Corporation,2,75.58
+459,Apartment,Under Construction,1686 ,"5,799 / sq ft",Krishnarajapura,Bangalore,Casagrand Builder Private Limited,3,97.77
+460,Apartment,Under Construction,1144 ,"8,016 / sq ft",Hennur,Bangalore,Kumar Properties,2,91.7
+461,Apartment,Under Construction,1280 ,"4,900 / sq ft",Sompura,Bangalore,Bavisha Homes Private Limited,3,62.72
+462,Apartment,Under Construction,1045 ,"4,738 / sq ft",Gunjur,Bangalore,Abhi Infra,2,49.52
+463,Apartment,Ready to move,1250 ,"9,796 / sq ft",Yeshwantpur,Bangalore,Pratham Constructions,2,122.0
+464,Apartment,Under Construction,933 ,"7,502 / sq ft",Begur,Bangalore,Assetz Property Group,2,70.0
+465,Apartment,Under Construction,1250 ,"6,436 / sq ft",Whitefield Hope Farm Junction,Bangalore,Saroj Group,2,80.45
+466,Villa,Under Construction,2199 ,"7,148 / sq ft",Chandapura,Bangalore,MAA HOMES,3,157.0
+467,Independent,Ready to move,1350 ,"6,593 / sq ft",Electronic City Phase 1,Bangalore,Annciya Projects LLP,3,89.0
+468,Apartment,Under Construction,1061 ,"7,842 / sq ft",Chikkanayakanahalli at Off Sarjapur,Bangalore,Mana Projects Pvt Ltd,2,83.21
+469,Apartment,Under Construction,643 ,"6,915 / sq ft",Chikkanayakanahalli at Off Sarjapur,Bangalore,DSR Infrastructure Pvt Ltd,1,44.46
+470,Apartment,Under Construction,1240 ,"8,305 / sq ft",RR Nagar,Bangalore,Navami Builders and Developers,2,102.0
+471,Apartment,Ready to move,1182 ,"3,296 / sq ft",Sarjapur,Bangalore,Inner Urban Infraestate P Ltd,2,38.96
+472,Apartment,Under Construction,703 ,"8,391 / sq ft",Bagalur,Bangalore,Godrej Properties Ltd,3,58.98
+473,Apartment,Under Construction,1230 ,"5,565 / sq ft",Krishnarajapura,Bangalore,Sree Sai Builders,3,68.44
+474,Apartment,Under Construction,1170 ,"3,376 / sq ft",Sompura,Bangalore,Trishul Builders And Promoters,2,39.49
+475,Apartment,Under Construction,1039 ,"5,352 / sq ft",Varthur,Bangalore,Anuraag Constructions,2,55.61
+476,Apartment,Ready to move,1795 ,"5,439 / sq ft",Uttarahalli,Bangalore,Vara Constructions,3,97.63
+477,Apartment,Under Construction,1429 ,"7,244 / sq ft",Kasavanahalli,Bangalore,Essem Constructions,3,103.0
+478,Apartment,Under Construction,965 ,"3,000 / sq ft",Electronic City Phase 1,Bangalore,DS-MAX Properties,2,28.95
+479,Apartment,Under Construction,1320 ,"6,294 / sq ft",Varthur,Bangalore,ATZ PROPERTIES,3,83.08
+480,Apartment,Ready to move,1900 ,"7,262 / sq ft",Whitefield Hope Farm Junction,Bangalore,Sumadhura Infracon Pvt Ltd,3,137.0
+481,Apartment,Under Construction,2919 ,"9,250 / sq ft",JP Nagar Phase 4,Bangalore,Esteem Group,4,270.0
+482,Apartment,Ready to move,1627 ,"4,671 / sq ft",Hennur,Bangalore,Pruthvi Projects,3,76.0
+483,Villa,Under Construction,800 ,"4,937 / sq ft",Anekal City,Bangalore,Reputed Builder,2,39.5
+484,Apartment,Under Construction,920 ,"4,500 / sq ft",Sarjapur,Bangalore,sellerVERIFIED OWNER,2,41.4
+485,Apartment,Ready to move,1040 ,"5,384 / sq ft",Electronic City Phase II,Bangalore,sellerVERIFIED OWNER,3,56.0
+486,Apartment,Ready to move,1166 ,"5,574 / sq ft",Nagarbhavi,Bangalore,sellerVERIFIED OWNER,2,65.0
+487,Independent,Ready to move,800 ,"10,350 / sq ft",Kengeri,Bangalore,sellerVERIFIED OWNER,2,82.8
+488,Apartment,Ready to move,615 ,"3,008 / sq ft",Nagarbhavi,Bangalore,sellerVERIFIED OWNER,2,18.5
+489,Villa,Under Construction,800 ,"6,250 / sq ft",Chandapura,Bangalore,sellerVERIFIED OWNER,2,50.0
+490,Apartment,Ready to move,1390 ,"8,633 / sq ft",Dasarahalli on Tumkur Road,Bangalore,sellerVERIFIED OWNER,3,120.0
+491,Villa,Under Construction,1200 ,"6,433 / sq ft",Varthur,Bangalore,sellerVERIFIED OWNER,2,77.2
+492,Independent,Ready to move,2500 ,"5,200 / sq ft",Hebbal,Bangalore,sellerVERIFIED OWNER,4,130.0
+493,Apartment,Ready to move,1365 ,"9,523 / sq ft",Kalena Agrahara,Bangalore,sellerVERIFIED OWNER,3,130.0
+494,Villa,Under Construction,1200 ,"4,916 / sq ft",Gunjur,Bangalore,sellerVERIFIED OWNER,3,59.0
+495,Villa,Ready to move,1200 ,"14,166 / sq ft",Munnekollal,Bangalore,sellerVERIFIED OWNER,2,170.0
+496,Independent,Ready to move,4500 ,"3,333 / sq ft",GB Palya,Bangalore,sellerVERIFIED OWNER,9,150.0
+497,Apartment,Ready to move,980 ,"6,122 / sq ft",Vidyaranyapura,Bangalore,sellerVERIFIED OWNER,2,60.0
+498,Independent,Under Construction,2100 ,"5,952 / sq ft",Nagarbhavi,Bangalore,sellerVERIFIED OWNER,6,125.0
+499,Apartment,Ready to move,1150 ,"4,347 / sq ft",Horamavu,Bangalore,sellerVERIFIED OWNER,2,50.0
+500,Apartment,Under Construction,1460 ,"5,999 / sq ft",Varthur,Bangalore,Parivar Housing Corporation,3,87.58
+501,Apartment,Under Construction,1190 ,"5,999 / sq ft",Varthur,Bangalore,Parivar Housing Corporation,2,71.38
+502,Apartment,Under Construction,1530 ,"5,999 / sq ft",Varthur,Bangalore,Parivar Housing Corporation,3,91.78
+503,Apartment,Under Construction,1522 ,"5,799 / sq ft",Krishnarajapura,Bangalore,Casagrand Builder Private Limited,2,88.26
+504,Apartment,Under Construction,1858 ,"5,813 / sq ft",Krishnarajapura,Bangalore,Casagrand Builder Private Limited,3,108.0
+505,Apartment,Under Construction,1466 ,"5,799 / sq ft",Krishnarajapura,Bangalore,Casagrand Builder Private Limited,2,85.01
+506,Apartment,Under Construction,1633 ,"5,799 / sq ft",Krishnarajapura,Bangalore,Casagrand Builder Private Limited,3,94.69
+507,Apartment,Under Construction,1144 ,"8,016 / sq ft",Hennur,Bangalore,Kumar Properties,2,91.7
+508,Apartment,Under Construction,1138 ,"8,019 / sq ft",Hennur,Bangalore,Kumar Properties,2,91.26
+509,Apartment,Under Construction,1138 ,"8,019 / sq ft",Hennur,Bangalore,Kumar Properties,2,91.26
+510,Apartment,Under Construction,1461 ,"7,866 / sq ft",Hennur,Bangalore,Kumar Properties,3,114.0
+511,Apartment,Under Construction,1461 ,"7,866 / sq ft",Hennur,Bangalore,Kumar Properties,3,114.0
+512,Apartment,Under Construction,1280 ,"4,900 / sq ft",Sompura,Bangalore,Bavisha Homes Private Limited,3,62.72
+513,Apartment,Under Construction,932 ,"4,900 / sq ft",Sompura,Bangalore,Bavisha Homes Private Limited,2,45.66
+514,Apartment,Under Construction,932 ,"4,900 / sq ft",Sompura,Bangalore,Bavisha Homes Private Limited,2,45.66
+515,Apartment,Under Construction,887 ,"5,200 / sq ft",Anekal City,Bangalore,Bavisha Homes Private Limited,2,46.12
+516,Apartment,Under Construction,1206 ,"5,200 / sq ft",Anekal City,Bangalore,Bavisha Homes Private Limited,3,62.71
+517,Apartment,Under Construction,887 ,"5,200 / sq ft",Anekal City,Bangalore,Bavisha Homes Private Limited,2,46.12
+518,Apartment,Under Construction,1206 ,"5,200 / sq ft",Anekal City,Bangalore,Bavisha Homes Private Limited,3,62.71
+519,Apartment,Under Construction,1178 ,"5,200 / sq ft",Anekal City,Bangalore,Bavisha Homes Private Limited,3,61.25
+520,Apartment,Under Construction,1178 ,"5,200 / sq ft",Anekal City,Bangalore,Bavisha Homes Private Limited,3,61.25
+521,Apartment,Under Construction,1000 ,"5,200 / sq ft",Anekal City,Bangalore,Bavisha Homes Private Limited,2,52.0
+522,Apartment,Under Construction,1000 ,"5,200 / sq ft",Anekal City,Bangalore,Bavisha Homes Private Limited,2,52.0
+523,Apartment,Under Construction,1276 ,"5,200 / sq ft",Anekal City,Bangalore,Bavisha Homes Private Limited,3,66.35
+524,Apartment,Under Construction,1276 ,"5,200 / sq ft",Anekal City,Bangalore,Bavisha Homes Private Limited,3,66.35
+525,Apartment,Under Construction,927 ,"5,200 / sq ft",Anekal City,Bangalore,Bavisha Homes Private Limited,2,48.2
+526,Apartment,Under Construction,927 ,"5,200 / sq ft",Anekal City,Bangalore,Bavisha Homes Private Limited,2,48.2
+527,Apartment,Under Construction,1293 ,"5,200 / sq ft",Anekal City,Bangalore,Bavisha Homes Private Limited,3,67.23
+528,Apartment,Under Construction,1293 ,"5,200 / sq ft",Anekal City,Bangalore,Bavisha Homes Private Limited,3,67.23
+529,Apartment,Under Construction,1008 ,"5,200 / sq ft",Anekal City,Bangalore,Bavisha Homes Private Limited,2,52.41
+530,Apartment,Under Construction,1008 ,"5,200 / sq ft",Anekal City,Bangalore,Bavisha Homes Private Limited,2,52.41
+531,Apartment,Under Construction,596 ,"5,200 / sq ft",Anekal City,Bangalore,Bavisha Homes Private Limited,1,30.99
+532,Apartment,Under Construction,596 ,"5,200 / sq ft",Anekal City,Bangalore,Bavisha Homes Private Limited,1,30.99
+533,Apartment,Under Construction,595 ,"5,200 / sq ft",Anekal City,Bangalore,Bavisha Homes Private Limited,1,30.94
+534,Apartment,Under Construction,595 ,"5,200 / sq ft",Anekal City,Bangalore,Bavisha Homes Private Limited,1,30.94
+535,Apartment,Under Construction,1301 ,"5,200 / sq ft",Anekal City,Bangalore,Bavisha Homes Private Limited,3,67.65
+536,Apartment,Under Construction,1301 ,"5,200 / sq ft",Anekal City,Bangalore,Bavisha Homes Private Limited,3,67.65
+537,Apartment,Under Construction,1045 ,"4,738 / sq ft",Gunjur,Bangalore,Abhi Infra,2,49.52
+538,Apartment,Under Construction,1405 ,"4,638 / sq ft",Gunjur,Bangalore,Abhi Infra,2,65.16
+539,Apartment,Under Construction,1405 ,"4,638 / sq ft",Gunjur,Bangalore,Abhi Infra,2,65.16
+540,Apartment,Under Construction,1175 ,"4,695 / sq ft",Gunjur,Bangalore,Abhi Infra,2,55.17
+541,Apartment,Under Construction,1175 ,"4,695 / sq ft",Gunjur,Bangalore,Abhi Infra,2,55.17
+542,Apartment,Under Construction,1000 ,"4,756 / sq ft",Gunjur,Bangalore,Abhi Infra,2,47.56
+543,Apartment,Under Construction,1000 ,"4,756 / sq ft",Gunjur,Bangalore,Abhi Infra,2,47.56
+544,Apartment,Under Construction,1650 ,"4,594 / sq ft",Gunjur,Bangalore,Abhi Infra,3,75.81
+545,Apartment,Under Construction,1650 ,"4,594 / sq ft",Gunjur,Bangalore,Abhi Infra,3,75.81
+546,Apartment,Under Construction,1150 ,"4,702 / sq ft",Gunjur,Bangalore,Abhi Infra,2,54.08
+547,Apartment,Under Construction,1150 ,"4,702 / sq ft",Gunjur,Bangalore,Abhi Infra,2,54.08
+548,Apartment,Under Construction,1195 ,"4,689 / sq ft",Gunjur,Bangalore,Abhi Infra,2,56.04
+549,Apartment,Under Construction,1195 ,"4,689 / sq ft",Gunjur,Bangalore,Abhi Infra,2,56.04
+550,Apartment,Under Construction,1225 ,"4,681 / sq ft",Gunjur,Bangalore,Abhi Infra,2,57.34
+551,Apartment,Under Construction,1225 ,"4,681 / sq ft",Gunjur,Bangalore,Abhi Infra,2,57.34
+552,Apartment,Under Construction,1435 ,"4,632 / sq ft",Gunjur,Bangalore,Abhi Infra,3,66.47
+553,Apartment,Under Construction,1435 ,"4,632 / sq ft",Gunjur,Bangalore,Abhi Infra,3,66.47
+554,Apartment,Under Construction,995 ,"4,758 / sq ft",Gunjur,Bangalore,Abhi Infra,2,47.34
+555,Apartment,Under Construction,995 ,"4,758 / sq ft",Gunjur,Bangalore,Abhi Infra,2,47.34
+556,Apartment,Ready to move,1250 ,"9,796 / sq ft",Yeshwantpur,Bangalore,Pratham Constructions,2,122.0
+557,Apartment,Ready to move,1295 ,"9,785 / sq ft",Yeshwantpur,Bangalore,Pratham Constructions,2,126.0
+558,Apartment,Ready to move,1295 ,"9,785 / sq ft",Yeshwantpur,Bangalore,Pratham Constructions,2,126.0
+559,Apartment,Ready to move,2560 ,"9,788 / sq ft",Yeshwantpur,Bangalore,Pratham Constructions,4,250.0
+560,Apartment,Ready to move,2560 ,"9,788 / sq ft",Yeshwantpur,Bangalore,Pratham Constructions,4,250.0
+561,Apartment,Under Construction,933 ,"7,502 / sq ft",Begur,Bangalore,Assetz Property Group,2,70.0
+562,Apartment,Under Construction,1020 ,"7,549 / sq ft",Begur,Bangalore,Assetz Property Group,2,77.0
+563,Apartment,Under Construction,1020 ,"7,549 / sq ft",Begur,Bangalore,Assetz Property Group,2,77.0
+564,Apartment,Under Construction,1194 ,"7,286 / sq ft",Begur,Bangalore,Assetz Property Group,3,87.0
+565,Apartment,Under Construction,1194 ,"7,286 / sq ft",Begur,Bangalore,Assetz Property Group,3,87.0
+566,Apartment,Under Construction,998 ,"7,615 / sq ft",Begur,Bangalore,Assetz Property Group,2,76.0
+567,Apartment,Under Construction,998 ,"7,615 / sq ft",Begur,Bangalore,Assetz Property Group,2,76.0
+568,Apartment,Under Construction,1165 ,"7,304 / sq ft",Begur,Bangalore,Assetz Property Group,3,85.1
+569,Apartment,Under Construction,1165 ,"7,304 / sq ft",Begur,Bangalore,Assetz Property Group,3,85.1
+570,Apartment,Under Construction,1203 ,"7,398 / sq ft",Begur,Bangalore,Assetz Property Group,3,89.0
+571,Apartment,Under Construction,1203 ,"7,398 / sq ft",Begur,Bangalore,Assetz Property Group,3,89.0
+572,Apartment,Under Construction,1250 ,"6,436 / sq ft",Whitefield Hope Farm Junction,Bangalore,Saroj Group,2,80.45
+573,Apartment,Under Construction,1180 ,"6,557 / sq ft",Whitefield Hope Farm Junction,Bangalore,Saroj Group,2,77.38
+574,Apartment,Under Construction,1180 ,"6,557 / sq ft",Whitefield Hope Farm Junction,Bangalore,Saroj Group,2,77.38
+575,Apartment,Under Construction,1160 ,"6,563 / sq ft",Whitefield Hope Farm Junction,Bangalore,Saroj Group,2,76.13
+576,Apartment,Under Construction,1290 ,"6,427 / sq ft",Whitefield Hope Farm Junction,Bangalore,Saroj Group,2,82.91
+577,Apartment,Under Construction,1160 ,"6,563 / sq ft",Whitefield Hope Farm Junction,Bangalore,Saroj Group,2,76.13
+578,Apartment,Under Construction,1170 ,"6,560 / sq ft",Whitefield Hope Farm Junction,Bangalore,Saroj Group,2,76.75
+579,Apartment,Under Construction,1290 ,"6,427 / sq ft",Whitefield Hope Farm Junction,Bangalore,Saroj Group,2,82.91
+580,Apartment,Under Construction,1300 ,"6,425 / sq ft",Whitefield Hope Farm Junction,Bangalore,Saroj Group,2,83.52
+581,Apartment,Under Construction,1170 ,"6,560 / sq ft",Whitefield Hope Farm Junction,Bangalore,Saroj Group,2,76.75
+582,Apartment,Under Construction,1235 ,"6,440 / sq ft",Whitefield Hope Farm Junction,Bangalore,Saroj Group,2,79.53
+583,Apartment,Under Construction,1300 ,"6,425 / sq ft",Whitefield Hope Farm Junction,Bangalore,Saroj Group,2,83.52
+584,Apartment,Under Construction,1235 ,"6,440 / sq ft",Whitefield Hope Farm Junction,Bangalore,Saroj Group,2,79.53
+585,Apartment,Under Construction,1365 ,"6,411 / sq ft",Whitefield Hope Farm Junction,Bangalore,Saroj Group,2,87.52
+586,Apartment,Under Construction,1230 ,"6,441 / sq ft",Whitefield Hope Farm Junction,Bangalore,Saroj Group,2,79.22
+587,Apartment,Under Construction,1365 ,"6,411 / sq ft",Whitefield Hope Farm Junction,Bangalore,Saroj Group,2,87.52
+588,Apartment,Under Construction,1345 ,"6,415 / sq ft",Whitefield Hope Farm Junction,Bangalore,Saroj Group,2,86.29
+589,Apartment,Under Construction,1230 ,"6,441 / sq ft",Whitefield Hope Farm Junction,Bangalore,Saroj Group,2,79.22
+590,Apartment,Under Construction,1345 ,"6,415 / sq ft",Whitefield Hope Farm Junction,Bangalore,Saroj Group,2,86.29
+591,Apartment,Under Construction,1275 ,"6,430 / sq ft",Whitefield Hope Farm Junction,Bangalore,Saroj Group,2,81.99
+592,Apartment,Under Construction,1275 ,"6,430 / sq ft",Whitefield Hope Farm Junction,Bangalore,Saroj Group,2,81.99
+593,Apartment,Under Construction,1210 ,"6,446 / sq ft",Whitefield Hope Farm Junction,Bangalore,Saroj Group,2,77.99
+594,Apartment,Under Construction,1210 ,"6,446 / sq ft",Whitefield Hope Farm Junction,Bangalore,Saroj Group,2,77.99
+595,Apartment,Under Construction,1405 ,"6,404 / sq ft",Whitefield Hope Farm Junction,Bangalore,Saroj Group,2,89.97
+596,Apartment,Under Construction,1405 ,"6,404 / sq ft",Whitefield Hope Farm Junction,Bangalore,Saroj Group,2,89.97
+597,Apartment,Under Construction,1140 ,"6,568 / sq ft",Whitefield Hope Farm Junction,Bangalore,Saroj Group,2,74.88
+598,Apartment,Under Construction,1220 ,"6,443 / sq ft",Whitefield Hope Farm Junction,Bangalore,Saroj Group,2,78.61
+599,Apartment,Under Construction,1140 ,"6,568 / sq ft",Whitefield Hope Farm Junction,Bangalore,Saroj Group,2,74.88
+600,Apartment,Under Construction,1155 ,"6,460 / sq ft",Whitefield Hope Farm Junction,Bangalore,Saroj Group,2,74.62
+601,Apartment,Under Construction,1220 ,"6,443 / sq ft",Whitefield Hope Farm Junction,Bangalore,Saroj Group,2,78.61
+602,Apartment,Under Construction,1155 ,"6,460 / sq ft",Whitefield Hope Farm Junction,Bangalore,Saroj Group,2,74.62
+603,Apartment,Under Construction,1280 ,"6,429 / sq ft",Whitefield Hope Farm Junction,Bangalore,Saroj Group,2,82.29
+604,Apartment,Under Construction,1280 ,"6,429 / sq ft",Whitefield Hope Farm Junction,Bangalore,Saroj Group,2,82.29
+605,Apartment,Under Construction,1130 ,"6,571 / sq ft",Whitefield Hope Farm Junction,Bangalore,Saroj Group,2,74.25
+606,Apartment,Under Construction,1130 ,"6,571 / sq ft",Whitefield Hope Farm Junction,Bangalore,Saroj Group,2,74.25
+607,Apartment,Under Construction,1125 ,"6,573 / sq ft",Whitefield Hope Farm Junction,Bangalore,Saroj Group,2,73.94
+608,Apartment,Under Construction,1125 ,"6,573 / sq ft",Whitefield Hope Farm Junction,Bangalore,Saroj Group,2,73.94
+609,Apartment,Under Construction,1190 ,"6,555 / sq ft",Whitefield Hope Farm Junction,Bangalore,Saroj Group,2,78.0
+610,Apartment,Under Construction,1190 ,"6,555 / sq ft",Whitefield Hope Farm Junction,Bangalore,Saroj Group,2,78.0
+611,Apartment,Under Construction,1465 ,"6,393 / sq ft",Whitefield Hope Farm Junction,Bangalore,Saroj Group,2,93.66
+612,Apartment,Under Construction,1465 ,"6,393 / sq ft",Whitefield Hope Farm Junction,Bangalore,Saroj Group,2,93.66
+613,Apartment,Under Construction,1200 ,"6,448 / sq ft",Whitefield Hope Farm Junction,Bangalore,Saroj Group,2,77.38
+614,Apartment,Under Construction,1200 ,"6,448 / sq ft",Whitefield Hope Farm Junction,Bangalore,Saroj Group,2,77.38
+615,Apartment,Under Construction,1330 ,"6,418 / sq ft",Whitefield Hope Farm Junction,Bangalore,Saroj Group,2,85.37
+616,Apartment,Under Construction,1330 ,"6,418 / sq ft",Whitefield Hope Farm Junction,Bangalore,Saroj Group,2,85.37
+617,Villa,Under Construction,2666 ,"7,524 / sq ft",Chandapura,Bangalore,MAA HOMES,3,200.0
+618,Independent,Ready to move,1350 ,"6,593 / sq ft",Electronic City Phase 1,Bangalore,Annciya Projects LLP,3,89.0
+619,Apartment,Under Construction,1061 ,"7,842 / sq ft",Chikkanayakanahalli at Off Sarjapur,Bangalore,Mana Projects Pvt Ltd,2,83.21
+620,Apartment,Under Construction,1088 ,"7,721 / sq ft",Chikkanayakanahalli at Off Sarjapur,Bangalore,Mana Projects Pvt Ltd,2,84.0
+621,Apartment,Under Construction,1088 ,"7,721 / sq ft",Chikkanayakanahalli at Off Sarjapur,Bangalore,Mana Projects Pvt Ltd,2,84.0
+622,Apartment,Under Construction,1063 ,"7,840 / sq ft",Chikkanayakanahalli at Off Sarjapur,Bangalore,Mana Projects Pvt Ltd,2,83.34
+623,Apartment,Under Construction,1063 ,"7,840 / sq ft",Chikkanayakanahalli at Off Sarjapur,Bangalore,Mana Projects Pvt Ltd,2,83.34
+624,Apartment,Under Construction,1060 ,"7,844 / sq ft",Chikkanayakanahalli at Off Sarjapur,Bangalore,Mana Projects Pvt Ltd,2,83.14
+625,Apartment,Under Construction,1060 ,"7,844 / sq ft",Chikkanayakanahalli at Off Sarjapur,Bangalore,Mana Projects Pvt Ltd,2,83.14
+626,Apartment,Under Construction,1061 ,"7,748 / sq ft",Chikkanayakanahalli at Off Sarjapur,Bangalore,Mana Projects Pvt Ltd,2,82.21
+627,Apartment,Under Construction,1061 ,"7,748 / sq ft",Chikkanayakanahalli at Off Sarjapur,Bangalore,Mana Projects Pvt Ltd,2,82.21
+628,Apartment,Under Construction,1081 ,"7,820 / sq ft",Chikkanayakanahalli at Off Sarjapur,Bangalore,Mana Projects Pvt Ltd,2,84.54
+629,Apartment,Under Construction,1081 ,"7,820 / sq ft",Chikkanayakanahalli at Off Sarjapur,Bangalore,Mana Projects Pvt Ltd,2,84.54
+630,Apartment,Under Construction,1039 ,"7,772 / sq ft",Chikkanayakanahalli at Off Sarjapur,Bangalore,Mana Projects Pvt Ltd,2,80.75
+631,Apartment,Under Construction,1039 ,"7,772 / sq ft",Chikkanayakanahalli at Off Sarjapur,Bangalore,Mana Projects Pvt Ltd,2,80.75
+632,Apartment,Under Construction,1074 ,"7,828 / sq ft",Chikkanayakanahalli at Off Sarjapur,Bangalore,Mana Projects Pvt Ltd,2,84.07
+633,Apartment,Under Construction,1074 ,"7,828 / sq ft",Chikkanayakanahalli at Off Sarjapur,Bangalore,Mana Projects Pvt Ltd,2,84.07
+634,Apartment,Under Construction,1422 ,"6,659 / sq ft",Chikkanayakanahalli at Off Sarjapur,Bangalore,DSR Infrastructure Pvt Ltd,3,94.7
+635,Apartment,Under Construction,1105 ,"6,720 / sq ft",Chikkanayakanahalli at Off Sarjapur,Bangalore,DSR Infrastructure Pvt Ltd,2,74.26
+636,Apartment,Under Construction,1104 ,"6,720 / sq ft",Chikkanayakanahalli at Off Sarjapur,Bangalore,DSR Infrastructure Pvt Ltd,2,74.19
+637,Apartment,Under Construction,1103 ,"6,720 / sq ft",Chikkanayakanahalli at Off Sarjapur,Bangalore,DSR Infrastructure Pvt Ltd,2,74.13
+638,Apartment,Under Construction,1100 ,"6,721 / sq ft",Chikkanayakanahalli at Off Sarjapur,Bangalore,DSR Infrastructure Pvt Ltd,2,73.93
+639,Apartment,Under Construction,1099 ,"6,721 / sq ft",Chikkanayakanahalli at Off Sarjapur,Bangalore,DSR Infrastructure Pvt Ltd,2,73.87
+640,Apartment,Under Construction,625 ,"6,929 / sq ft",Chikkanayakanahalli at Off Sarjapur,Bangalore,DSR Infrastructure Pvt Ltd,1,43.3
+641,Apartment,Under Construction,1210 ,"6,696 / sq ft",Chikkanayakanahalli at Off Sarjapur,Bangalore,DSR Infrastructure Pvt Ltd,2,81.03
+642,Apartment,Under Construction,780 ,"6,833 / sq ft",Chikkanayakanahalli at Off Sarjapur,Bangalore,DSR Infrastructure Pvt Ltd,1,53.3
+643,Apartment,Under Construction,619 ,"6,933 / sq ft",Chikkanayakanahalli at Off Sarjapur,Bangalore,DSR Infrastructure Pvt Ltd,1,42.91
+644,Apartment,Under Construction,1390 ,"6,664 / sq ft",Chikkanayakanahalli at Off Sarjapur,Bangalore,DSR Infrastructure Pvt Ltd,3,92.64
+645,Apartment,Under Construction,875 ,"6,791 / sq ft",Chikkanayakanahalli at Off Sarjapur,Bangalore,DSR Infrastructure Pvt Ltd,2,59.42
+646,Apartment,Under Construction,880 ,"6,789 / sq ft",Chikkanayakanahalli at Off Sarjapur,Bangalore,DSR Infrastructure Pvt Ltd,2,59.75
+647,Apartment,Under Construction,646 ,"6,913 / sq ft",Chikkanayakanahalli at Off Sarjapur,Bangalore,DSR Infrastructure Pvt Ltd,1,44.66
+648,Apartment,Under Construction,1148 ,"8,361 / sq ft",RR Nagar,Bangalore,Navami Builders and Developers,2,95.99
+649,Apartment,Under Construction,1240 ,"8,305 / sq ft",RR Nagar,Bangalore,Navami Builders and Developers,2,102.0
+650,Apartment,Under Construction,1652 ,"8,130 / sq ft",RR Nagar,Bangalore,Navami Builders and Developers,3,134.0
+651,Apartment,Under Construction,1148 ,"8,361 / sq ft",RR Nagar,Bangalore,Navami Builders and Developers,2,95.99
+652,Apartment,Under Construction,1652 ,"8,130 / sq ft",RR Nagar,Bangalore,Navami Builders and Developers,3,134.0
+653,Apartment,Ready to move,1182 ,"3,296 / sq ft",Sarjapur,Bangalore,Inner Urban Infraestate P Ltd,2,38.96
+654,Apartment,Ready to move,1398 ,"3,250 / sq ft",Sarjapur,Bangalore,Inner Urban Infraestate P Ltd,3,45.44
+655,Apartment,Ready to move,1398 ,"3,250 / sq ft",Sarjapur,Bangalore,Inner Urban Infraestate P Ltd,3,45.44
+656,Apartment,Ready to move,1467 ,"3,238 / sq ft",Sarjapur,Bangalore,Inner Urban Infraestate P Ltd,3,47.51
+657,Apartment,Ready to move,1467 ,"3,238 / sq ft",Sarjapur,Bangalore,Inner Urban Infraestate P Ltd,3,47.51
+658,Apartment,Ready to move,1068 ,"3,327 / sq ft",Sarjapur,Bangalore,Inner Urban Infraestate P Ltd,2,35.54
+659,Apartment,Ready to move,1068 ,"3,327 / sq ft",Sarjapur,Bangalore,Inner Urban Infraestate P Ltd,2,35.54
+660,Apartment,Ready to move,1399 ,"3,250 / sq ft",Sarjapur,Bangalore,Inner Urban Infraestate P Ltd,3,45.47
+661,Apartment,Ready to move,1399 ,"3,250 / sq ft",Sarjapur,Bangalore,Inner Urban Infraestate P Ltd,3,45.47
+662,Apartment,Under Construction,703 ,"8,391 / sq ft",Bagalur,Bangalore,Godrej Properties Ltd,3,58.98
+663,Apartment,Under Construction,595 ,"7,225 / sq ft",Bagalur,Bangalore,Godrej Properties Ltd,2,42.98
+664,Apartment,Under Construction,595 ,"7,225 / sq ft",Bagalur,Bangalore,Godrej Properties Ltd,2,42.98
+665,Apartment,Under Construction,702 ,"8,272 / sq ft",Bagalur,Bangalore,Godrej Properties Ltd,3,57.98
+666,Apartment,Under Construction,702 ,"8,272 / sq ft",Bagalur,Bangalore,Godrej Properties Ltd,3,57.98
+667,Apartment,Under Construction,1235 ,"5,565 / sq ft",Krishnarajapura,Bangalore,Sree Sai Builders,2,68.72
+668,Apartment,Under Construction,1232 ,"5,565 / sq ft",Krishnarajapura,Bangalore,Sree Sai Builders,2,68.56
+669,Apartment,Under Construction,1210 ,"5,565 / sq ft",Krishnarajapura,Bangalore,Sree Sai Builders,2,67.33
+670,Apartment,Under Construction,1275 ,"5,565 / sq ft",Krishnarajapura,Bangalore,Sree Sai Builders,3,70.95
+671,Apartment,Under Construction,1280 ,"5,565 / sq ft",Krishnarajapura,Bangalore,Sree Sai Builders,2,71.23
+672,Apartment,Under Construction,1215 ,"5,565 / sq ft",Krishnarajapura,Bangalore,Sree Sai Builders,2,67.61
+673,Apartment,Under Construction,1390 ,"5,565 / sq ft",Krishnarajapura,Bangalore,Sree Sai Builders,3,77.35
+674,Apartment,Under Construction,1585 ,"5,565 / sq ft",Krishnarajapura,Bangalore,Sree Sai Builders,3,88.2
+675,Apartment,Under Construction,1585 ,"5,565 / sq ft",Krishnarajapura,Bangalore,Sree Sai Builders,2,88.2
+676,Apartment,Under Construction,1190 ,"5,565 / sq ft",Krishnarajapura,Bangalore,Sree Sai Builders,2,66.22
+677,Apartment,Under Construction,1135 ,"5,565 / sq ft",Krishnarajapura,Bangalore,Sree Sai Builders,2,63.16
+678,Apartment,Under Construction,1200 ,"5,565 / sq ft",Krishnarajapura,Bangalore,Sree Sai Builders,2,66.78
+679,Apartment,Under Construction,1400 ,"3,215 / sq ft",Sompura,Bangalore,Trishul Builders And Promoters,3,45.01
+680,Apartment,Under Construction,1475 ,"4,500 / sq ft",Sarjapur,Bangalore,sellerVERIFIED OWNER,3,66.37
+681,Apartment,Under Construction,1320 ,"4,500 / sq ft",Sarjapur,Bangalore,sellerVERIFIED OWNER,3,59.4
+682,Apartment,Under Construction,1115 ,"4,500 / sq ft",Sarjapur,Bangalore,sellerVERIFIED OWNER,2,50.17
+683,Apartment,Under Construction,1125 ,"4,500 / sq ft",Sarjapur,Bangalore,sellerVERIFIED OWNER,2,50.62
+684,Apartment,Under Construction,1325 ,"4,500 / sq ft",Sarjapur,Bangalore,sellerVERIFIED OWNER,3,59.62
+685,Apartment,Under Construction,1025 ,"4,500 / sq ft",Sarjapur,Bangalore,sellerVERIFIED OWNER,2,46.12
+686,Apartment,Under Construction,1430 ,"4,500 / sq ft",Sarjapur,Bangalore,sellerVERIFIED OWNER,3,64.35
+687,Apartment,Under Construction,1335 ,"4,500 / sq ft",Sarjapur,Bangalore,sellerVERIFIED OWNER,3,60.07
+688,Apartment,Under Construction,1100 ,"4,500 / sq ft",Sarjapur,Bangalore,sellerVERIFIED OWNER,2,49.5
+689,Apartment,Under Construction,1039 ,"5,352 / sq ft",Varthur,Bangalore,Anuraag Constructions,2,55.61
+690,Apartment,Ready to move,1270 ,"5,496 / sq ft",Uttarahalli,Bangalore,Vara Constructions,2,69.81
+691,Apartment,Ready to move,1500 ,"5,466 / sq ft",Uttarahalli,Bangalore,Vara Constructions,3,82.0
+692,Apartment,Under Construction,1174 ,"6,554 / sq ft",Chikkanayakanahalli at Off Sarjapur,Bangalore,DSR Infrastructure Pvt Ltd,2,76.95
+693,Apartment,Under Construction,878 ,"6,640 / sq ft",Chikkanayakanahalli at Off Sarjapur,Bangalore,DSR Infrastructure Pvt Ltd,2,58.3
+694,Apartment,Under Construction,1032 ,"3,000 / sq ft",Electronic City Phase 1,Bangalore,DS-MAX Properties,2,30.96
+695,Apartment,Under Construction,951 ,"3,000 / sq ft",Electronic City Phase 1,Bangalore,DS-MAX Properties,2,28.53
+696,Apartment,Under Construction,1007 ,"3,000 / sq ft",Electronic City Phase 1,Bangalore,DS-MAX Properties,2,30.21
+697,Apartment,Under Construction,1371 ,"3,000 / sq ft",Electronic City Phase 1,Bangalore,DS-MAX Properties,3,41.13
+698,Apartment,Under Construction,1374 ,"3,000 / sq ft",Electronic City Phase 1,Bangalore,DS-MAX Properties,3,41.22
+699,Apartment,Under Construction,933 ,"3,000 / sq ft",Electronic City Phase 1,Bangalore,DS-MAX Properties,2,27.99
+700,Apartment,Under Construction,1359 ,"3,000 / sq ft",Electronic City Phase 1,Bangalore,DS-MAX Properties,2,40.77
+701,Apartment,Under Construction,1380 ,"3,000 / sq ft",Electronic City Phase 1,Bangalore,DS-MAX Properties,3,41.4
+702,Apartment,Under Construction,1117 ,"3,000 / sq ft",Electronic City Phase 1,Bangalore,DS-MAX Properties,2,33.51
+703,Apartment,Under Construction,1378 ,"3,000 / sq ft",Electronic City Phase 1,Bangalore,DS-MAX Properties,2,41.34
+704,Apartment,Under Construction,1194 ,"3,000 / sq ft",Electronic City Phase 1,Bangalore,DS-MAX Properties,2,35.82
+705,Apartment,Under Construction,1457 ,"3,000 / sq ft",Electronic City Phase 1,Bangalore,DS-MAX Properties,3,43.71
+706,Apartment,Under Construction,1201 ,"3,000 / sq ft",Electronic City Phase 1,Bangalore,DS-MAX Properties,2,36.03
+707,Apartment,Under Construction,1198 ,"3,000 / sq ft",Electronic City Phase 1,Bangalore,DS-MAX Properties,2,35.94
+708,Apartment,Under Construction,1309 ,"3,000 / sq ft",Electronic City Phase 1,Bangalore,DS-MAX Properties,3,39.27
+709,Apartment,Under Construction,1290 ,"3,000 / sq ft",Electronic City Phase 1,Bangalore,DS-MAX Properties,3,38.7
+710,Apartment,Under Construction,1288 ,"3,000 / sq ft",Electronic City Phase 1,Bangalore,DS-MAX Properties,3,38.64
+711,Apartment,Under Construction,1298 ,"3,000 / sq ft",Electronic City Phase 1,Bangalore,DS-MAX Properties,3,38.94
+712,Apartment,Under Construction,1300 ,"3,000 / sq ft",Electronic City Phase 1,Bangalore,DS-MAX Properties,3,39.0
+713,Apartment,Under Construction,2061 ,"3,000 / sq ft",Electronic City Phase 1,Bangalore,DS-MAX Properties,4,61.83
+714,Apartment,Under Construction,1920 ,"3,000 / sq ft",Electronic City Phase 1,Bangalore,DS-MAX Properties,4,57.6
+715,Apartment,Under Construction,1286 ,"3,000 / sq ft",Electronic City Phase 1,Bangalore,DS-MAX Properties,2,38.58
+716,Apartment,Under Construction,1394 ,"3,000 / sq ft",Electronic City Phase 1,Bangalore,DS-MAX Properties,3,41.82
+717,Apartment,Under Construction,1266 ,"3,000 / sq ft",Electronic City Phase 1,Bangalore,DS-MAX Properties,3,37.98
+718,Apartment,Under Construction,1270 ,"3,000 / sq ft",Electronic City Phase 1,Bangalore,DS-MAX Properties,3,38.1
+719,Apartment,Ready to move,1166 ,"5,574 / sq ft",Nagarbhavi,Bangalore,sellerVERIFIED OWNER,2,65.0
+720,Villa,Under Construction,3100 ,"7,580 / sq ft",Hoskote,Bangalore,sellerVERIFIED OWNER,3,235.0
+721,Apartment,Ready to move,1000 ,"3,990 / sq ft",Chikkalasandra,Bangalore,sellerVERIFIED OWNER,2,39.9
+722,Apartment,Ready to move,1200 ,"4,166 / sq ft",Marathahalli,Bangalore,sellerVERIFIED OWNER,2,50.0
+723,Apartment,Under Construction,1552 ,"4,510 / sq ft",Sarjapur,Bangalore,sellerVERIFIED OWNER,3,70.0
+724,Apartment,Under Construction,1000 ,"8,500 / sq ft",Varthur,Bangalore,sellerVERIFIED OWNER,2,85.0
+725,Villa,Ready to move,4000 ,"8,125 / sq ft",Vimanapura,Bangalore,sellerVERIFIED OWNER,7,325.0
+726,Apartment,Ready to move,2625 ,"3,657 / sq ft",Ramamurthy Nagar,Bangalore,sellerVERIFIED OWNER,4,96.0
+727,Apartment,Ready to move,1350 ,"5,703 / sq ft",Horamavu,Bangalore,sellerVERIFIED OWNER,2,77.0
+728,Apartment,Ready to move,1000 ,"4,450 / sq ft",Krishnarajapura,Bangalore,sellerVERIFIED OWNER,2,44.5
+729,Independent,Under Construction,1250 ,"5,280 / sq ft",Cheemasandra,Bangalore,sellerVERIFIED OWNER,2,66.0
+730,Apartment,Ready to move,2255 ,"10,000 / sq ft",BTM Layout,Bangalore,sellerVERIFIED OWNER,3,225.0
+731,Independent,Ready to move,1100 ,"7,272 / sq ft",Krishnarajapura,Bangalore,sellerVERIFIED OWNER,3,80.0
+732,Apartment,Ready to move,1208 ,"6,456 / sq ft",RR Nagar,Bangalore,sellerVERIFIED OWNER,2,78.0
+733,Apartment,Ready to move,1200 ,"5,000 / sq ft",Singasandra,Bangalore,sellerVERIFIED OWNER,3,60.0
+734,Apartment,Ready to move,800 ,"6,250 / sq ft",Jalahalli,Bangalore,sellerVERIFIED OWNER,1,50.0
+735,Apartment,Ready to move,1036 ,"6,756 / sq ft",Jalahalli,Bangalore,sellerVERIFIED OWNER,2,70.0
+736,Apartment,Ready to move,1036 ,"6,756 / sq ft",Jalahalli,Bangalore,sellerVERIFIED OWNER,2,70.0
+737,Independent,Ready to move,2450 ,"7,142 / sq ft",Nagarbhavi,Bangalore,sellerVERIFIED OWNER,3,175.0
+738,Independent,Ready to move,610 ,"1,967 / sq ft",BTM Layout 2nd Stage,Bangalore,sellerVERIFIED OWNER,3,11.99
+739,Independent,Under Construction,1900 ,"3,631 / sq ft",Cheemasandra,Bangalore,sellerVERIFIED OWNER,5,69.0
+740,Apartment,Ready to move,982 ,"6,109 / sq ft",Kannur on Thanisandra Main Road,Bangalore,sellerVERIFIED OWNER,2,60.0
+741,Apartment,Ready to move,1400 ,"5,071 / sq ft",Begur,Bangalore,sellerVERIFIED OWNER,3,71.0
+742,Apartment,Ready to move,1186 ,"4,750 / sq ft",Kanakapura,Bangalore,sellerVERIFIED OWNER,2,56.34
+743,Apartment,Ready to move,1035 ,"4,830 / sq ft",Jakkur,Bangalore,sellerVERIFIED OWNER,2,50.0
+744,Independent,Ready to move,2300 ,"6,043 / sq ft",Krishnarajapura,Bangalore,sellerVERIFIED OWNER,4,139.0
+745,Independent,Ready to move,2301 ,"6,040 / sq ft",Krishnarajapura,Bangalore,sellerVERIFIED OWNER,4,139.0
+746,Apartment,Ready to move,835 ,"4,017 / sq ft",Chandapura,Bangalore,sellerVERIFIED OWNER,2,33.55
+747,Villa,Under Construction,2600 ,"5,000 / sq ft",Bommasandra,Bangalore,sellerVERIFIED OWNER,4,130.0
+748,Villa,Under Construction,2600 ,"5,000 / sq ft",Bommasandra,Bangalore,sellerVERIFIED OWNER,4,130.0
+749,Villa,Under Construction,1200 ,"4,333 / sq ft",Jagadenahalli,Bangalore,sellerVERIFIED OWNER,3,52.0
+750,Apartment,Under Construction,1000 ,"6,700 / sq ft",Kalyan Nagar,Bangalore,sellerVERIFIED OWNER,2,67.0
+751,Apartment,Ready to move,1300 ,"7,615 / sq ft",Talaghattapura,Bangalore,sellerVERIFIED OWNER,3,99.0
+752,Apartment,Ready to move,1110 ,"5,405 / sq ft",Thanisandra,Bangalore,sellerVERIFIED OWNER,2,60.0
+753,Apartment,Ready to move,650 ,"6,000 / sq ft",Volagerekallahalli,Bangalore,sellerVERIFIED OWNER,1,39.0
+754,Apartment,Ready to move,1150 ,"4,739 / sq ft",RR Nagar,Bangalore,sellerVERIFIED OWNER,2,54.5
+755,Apartment,Ready to move,1125 ,"3,555 / sq ft",Medahalli,Bangalore,sellerVERIFIED OWNER,2,40.0
+756,Apartment,Ready to move,1070 ,"6,500 / sq ft",Kalyan Nagar,Bangalore,sellerVERIFIED OWNER,2,69.55
+757,Apartment,Ready to move,1250 ,"5,200 / sq ft",Konanakunte,Bangalore,sellerVERIFIED OWNER,3,65.0
+758,Independent,Ready to move,4400 ,"8,636 / sq ft",HBR Layout,Bangalore,sellerVERIFIED OWNER,7,380.0
+759,Apartment,Ready to move,1150 ,"3,391 / sq ft",Uttarahalli Hobli,Bangalore,sellerVERIFIED OWNER,2,39.0
+760,Independent,Ready to move,4400 ,"7,045 / sq ft",RR Nagar,Bangalore,sellerVERIFIED OWNER,4,310.0
+761,Independent,Ready to move,1250 ,"6,800 / sq ft",Margondanahalli,Bangalore,sellerVERIFIED OWNER,2,85.0
+762,Apartment,Under Construction,1100 ,"5,800 / sq ft",RR Nagar,Bangalore,sellerVERIFIED OWNER,2,63.8
+763,Apartment,Under Construction,1100 ,"5,800 / sq ft",RR Nagar,Bangalore,sellerVERIFIED OWNER,2,63.8
+764,Apartment,Under Construction,1300 ,"5,800 / sq ft",RR Nagar,Bangalore,sellerVERIFIED OWNER,3,75.4
+765,Apartment,Under Construction,1300 ,"5,800 / sq ft",RR Nagar,Bangalore,sellerVERIFIED OWNER,3,75.4
+766,Apartment,Under Construction,1100 ,"5,800 / sq ft",RR Nagar,Bangalore,sellerVERIFIED OWNER,2,63.8
+767,Apartment,Under Construction,1100 ,"5,800 / sq ft",RR Nagar,Bangalore,sellerVERIFIED OWNER,2,63.8
+768,Apartment,Under Construction,1300 ,"5,800 / sq ft",RR Nagar,Bangalore,sellerVERIFIED OWNER,3,75.4
+769,Apartment,Under Construction,1300 ,"5,800 / sq ft",RR Nagar,Bangalore,sellerVERIFIED OWNER,3,75.4
+770,Independent,Ready to move,2200 ,"4,090 / sq ft",Margondanahalli,Bangalore,sellerVERIFIED OWNER,2,90.0
+771,Apartment,Under Construction,1532 ,"5,350 / sq ft",Talaghattapura,Bangalore,sellerVERIFIED OWNER,3,81.96
+772,Apartment,Under Construction,1532 ,"5,350 / sq ft",Talaghattapura,Bangalore,sellerVERIFIED OWNER,3,81.96
+773,Apartment,Under Construction,1532 ,"5,350 / sq ft",Talaghattapura,Bangalore,sellerVERIFIED OWNER,3,81.96
+774,Apartment,Under Construction,1532 ,"5,350 / sq ft",Talaghattapura,Bangalore,sellerVERIFIED OWNER,3,81.96
+775,Apartment,Under Construction,1100 ,"5,364 / sq ft",Kanakapura,Bangalore,sellerVERIFIED OWNER,2,59.0
+776,Apartment,Under Construction,1100 ,"5,364 / sq ft",Kanakapura,Bangalore,sellerVERIFIED OWNER,2,59.0
+777,Apartment,Under Construction,1300 ,"5,364 / sq ft",Kanakapura,Bangalore,sellerVERIFIED OWNER,3,69.73
+778,Apartment,Under Construction,1300 ,"5,364 / sq ft",Kanakapura,Bangalore,sellerVERIFIED OWNER,3,69.73
+779,Apartment,Under Construction,1100 ,"5,364 / sq ft",Kanakapura,Bangalore,sellerVERIFIED OWNER,2,59.0
+780,Apartment,Under Construction,1100 ,"5,364 / sq ft",Kanakapura,Bangalore,sellerVERIFIED OWNER,2,59.0
+781,Apartment,Under Construction,1300 ,"5,364 / sq ft",Kanakapura,Bangalore,sellerVERIFIED OWNER,3,69.73
+782,Apartment,Under Construction,1300 ,"5,364 / sq ft",Kanakapura,Bangalore,sellerVERIFIED OWNER,3,69.73
+783,Apartment,Ready to move,1459 ,"5,300 / sq ft",JP Nagar Phase 7,Bangalore,sellerVERIFIED OWNER,3,77.32
+784,Apartment,Ready to move,1459 ,"5,300 / sq ft",JP Nagar Phase 7,Bangalore,sellerVERIFIED OWNER,3,77.32
+785,Apartment,Ready to move,1459 ,"5,300 / sq ft",JP Nagar Phase 7,Bangalore,sellerVERIFIED OWNER,3,77.32
+786,Apartment,Ready to move,1459 ,"5,300 / sq ft",JP Nagar Phase 7,Bangalore,sellerVERIFIED OWNER,3,77.32
+787,Apartment,Ready to move,1125 ,"3,555 / sq ft",Medahalli,Bangalore,sellerVERIFIED OWNER,2,40.0
+788,Apartment,Ready to move,1119 ,"4,800 / sq ft",Jigani,Bangalore,sellerVERIFIED OWNER,2,53.71
+789,Apartment,Ready to move,1075 ,"7,162 / sq ft",Marathahalli,Bangalore,sellerVERIFIED OWNER,2,77.0
+790,Apartment,Under Construction,1000 ,"6,700 / sq ft",Kalyan Nagar,Bangalore,sellerVERIFIED OWNER,2,67.0
+791,Apartment,Ready to move,1300 ,"7,615 / sq ft",Talaghattapura,Bangalore,sellerVERIFIED OWNER,3,99.0
+792,Independent,Under Construction,2400 ,"2,708 / sq ft",RR Nagar,Bangalore,sellerVERIFIED OWNER,3,65.0
+793,Independent,Ready to move,3300 ,"3,333 / sq ft",Marsur,Bangalore,sellerVERIFIED OWNER,4,110.0
+794,Apartment,Ready to move,814 ,"6,142 / sq ft",Nelamangala,Bangalore,sellerVERIFIED OWNER,2,50.0
+795,Independent,Ready to move,6500 ,"3,153 / sq ft",Electronics City,Bangalore,sellerVERIFIED OWNER,10,205.0
+796,Villa,Ready to move,2000 ,"3,950 / sq ft",Electronics City,Bangalore,sellerVERIFIED OWNER,3,79.0
+797,Villa,Under Construction,1300 ,"5,000 / sq ft",Electronics City,Bangalore,sellerVERIFIED OWNER,2,65.0
+798,Apartment,Ready to move,1252 ,"5,990 / sq ft",Avalahalli Off Sarjapur Road,Bangalore,sellerVERIFIED OWNER,3,75.0
+799,Apartment,Ready to move,1450 ,"6,034 / sq ft",Nagarbhavi,Bangalore,sellerVERIFIED OWNER,3,87.5
+800,Apartment,Ready to move,1022 ,"4,696 / sq ft",Vijayanagar,Bangalore,sellerVERIFIED OWNER,2,48.0
+801,Apartment,Ready to move,1768 ,"6,165 / sq ft",BTM Layout,Bangalore,sellerVERIFIED OWNER,3,109.0
+802,Independent,Ready to move,1800 ,"4,833 / sq ft",Sidedahalli,Bangalore,sellerVERIFIED OWNER,4,87.0
+803,Apartment,Ready to move,1223 ,"8,013 / sq ft",Yeshwantpur,Bangalore,sellerVERIFIED OWNER,2,98.0
+804,Apartment,Under Construction,1305 ,"5,823 / sq ft",Padmanabhanagar,Bangalore,sellerVERIFIED OWNER,3,76.0
+805,Apartment,Ready to move,1045 ,"4,306 / sq ft",Bilekahalli,Bangalore,sellerVERIFIED OWNER,2,45.0
+806,Apartment,Ready to move,1145 ,"4,235 / sq ft",Electronic City Phase 1,Bangalore,sellerVERIFIED OWNER,2,48.5
+807,Apartment,Ready to move,1315 ,"4,410 / sq ft",Uttarahalli Hobli,Bangalore,sellerVERIFIED OWNER,3,58.0
+808,Apartment,Ready to move,1301 ,"5,918 / sq ft",J. P. Nagar,Bangalore,sellerVERIFIED OWNER,3,77.0
+809,Apartment,Ready to move,1205 ,"3,651 / sq ft",Billapura,Bangalore,sellerVERIFIED OWNER,2,44.0
+810,Apartment,Ready to move,1195 ,"4,351 / sq ft",Electronic City Phase 1,Bangalore,sellerVERIFIED OWNER,2,52.0
+811,Apartment,Ready to move,982 ,"6,109 / sq ft",Kannur on Thanisandra Main Road,Bangalore,sellerVERIFIED OWNER,2,60.0
+812,Apartment,Under Construction,1809 ,"5,306 / sq ft",Electronics City,Bangalore,sellerVERIFIED OWNER,3,96.0
+813,Apartment,Ready to move,1150 ,"6,869 / sq ft",Kalyan Nagar,Bangalore,sellerVERIFIED OWNER,2,79.0
+814,Apartment,Ready to move,1120 ,"4,464 / sq ft",Horamavu,Bangalore,sellerVERIFIED OWNER,2,50.0
+815,Apartment,Ready to move,1196 ,"6,270 / sq ft",Ramamurthy Nagar,Bangalore,sellerVERIFIED OWNER,2,75.0
+816,Apartment,Ready to move,1128 ,"6,826 / sq ft",Electronic City Phase 1,Bangalore,sellerVERIFIED OWNER,2,77.0
+817,Independent,Ready to move,1200 ,"6,250 / sq ft",Thathaguni,Bangalore,sellerVERIFIED OWNER,3,75.0
+818,Independent,Under Construction,2600 ,"5,769 / sq ft",Subramanyapura,Bangalore,sellerVERIFIED OWNER,4,150.0
+819,Apartment,Ready to move,405 ,"4,938 / sq ft",Lal Bahadur Shastri Nagar,Bangalore,sellerVERIFIED OWNER,1,20.0
+820,Independent,Ready to move,3500 ,"6,428 / sq ft",Jnana Ganga Nagar,Bangalore,sellerVERIFIED OWNER,5,225.0
+821,Independent,Ready to move,2600 ,"4,615 / sq ft",Vidyaranyapura,Bangalore,sellerVERIFIED OWNER,6,120.0
+822,Apartment,Ready to move,1235 ,"7,935 / sq ft",Narayanapura on Hennur Main Road,Bangalore,sellerVERIFIED OWNER,4,98.0
+823,Apartment,Ready to move,803 ,"5,603 / sq ft",Banashankari,Bangalore,sellerVERIFIED OWNER,2,44.99
+824,Apartment,Ready to move,1850 ,"6,216 / sq ft",J. P. Nagar,Bangalore,sellerVERIFIED OWNER,3,115.0
+825,Apartment,Ready to move,1140 ,"4,035 / sq ft",Kalyan Nagar,Bangalore,sellerVERIFIED OWNER,2,46.0
+826,Apartment,Ready to move,2122 ,"10,367 / sq ft",Bellandur,Bangalore,sellerVERIFIED OWNER,3,220.0
+827,Villa,Under Construction,1200 ,"4,916 / sq ft",Chandapura,Bangalore,sellerVERIFIED OWNER,3,59.0
+828,Apartment,Ready to move,1600 ,"5,625 / sq ft",Vidyaranyapura,Bangalore,sellerVERIFIED OWNER,3,90.0
+829,Apartment,Ready to move,1848 ,"10,010 / sq ft",Vijayanagar,Bangalore,sellerVERIFIED OWNER,3,185.0
+830,Villa,Under Construction,1724 ,"6,960 / sq ft",Sarjapur Road Post Railway Crossing,Bangalore,sellerVERIFIED OWNER,4,120.0
+831,Villa,Ready to move,1700 ,"4,294 / sq ft",Electronics City,Bangalore,sellerVERIFIED OWNER,3,73.0
+832,Independent,Under Construction,4000 ,"4,475 / sq ft",Vidyaranyapura,Bangalore,sellerVERIFIED OWNER,6,179.0
+833,Apartment,Ready to move,3024 ,"6,779 / sq ft",Banashankari,Bangalore,sellerVERIFIED OWNER,3,205.0
+834,Apartment,Ready to move,1600 ,"4,718 / sq ft",Byrathi,Bangalore,sellerVERIFIED OWNER,3,75.5
+835,Apartment,Ready to move,895 ,"5,000 / sq ft",Vajarahalli,Bangalore,sellerVERIFIED OWNER,2,44.75
+836,Apartment,Ready to move,1100 ,"5,727 / sq ft",Nagarbhavi,Bangalore,sellerVERIFIED OWNER,2,63.0
+837,Apartment,Under Construction,1850 ,"5,945 / sq ft",J. P. Nagar,Bangalore,sellerVERIFIED OWNER,3,110.0
+838,Apartment,Ready to move,1150 ,"6,782 / sq ft",Electronic City Phase 2,Bangalore,sellerVERIFIED OWNER,2,78.0
+839,Independent,Ready to move,2720 ,"12,003 / sq ft",Kartik Nagar,Bangalore,sellerVERIFIED OWNER,3,326.0
+840,Apartment,Ready to move,750 ,"4,800 / sq ft",hongasandra bangalore,Bangalore,sellerVERIFIED OWNER,1,36.0
+841,Apartment,Ready to move,1173 ,"8,525 / sq ft",Whitefield,Bangalore,sellerVERIFIED OWNER,2,100.0
+842,Apartment,Ready to move,1271 ,"6,687 / sq ft",Kannur on Thanisandra Main Road,Bangalore,sellerVERIFIED OWNER,2,85.0
+843,Independent,Ready to move,2700 ,"3,333 / sq ft",Electronics City,Bangalore,sellerVERIFIED OWNER,7,90.0
+844,Apartment,Ready to move,1850 ,"10,810 / sq ft",Richmond Town,Bangalore,sellerVERIFIED OWNER,3,200.0
+845,Villa,Ready to move,1750 ,"5,657 / sq ft",Sarjapur,Bangalore,sellerVERIFIED OWNER,3,99.0
+846,Apartment,Under Construction,1650 ,"5,878 / sq ft",Kammanahalli,Bangalore,sellerVERIFIED OWNER,3,97.0
+847,Apartment,Under Construction,2511 ,"8,960 / sq ft",Kengeri,Bangalore,sellerVERIFIED OWNER,3,225.0
+848,Apartment,Ready to move,1167 ,"3,856 / sq ft",Chickpet,Bangalore,sellerVERIFIED OWNER,2,45.0
+849,Villa,Ready to move,4350 ,"11,724 / sq ft",Bagaluru Near Yelahanka,Bangalore,sellerVERIFIED OWNER,5,510.0
+850,Independent,Ready to move,3600 ,"5,277 / sq ft",Krishnarajapura,Bangalore,sellerVERIFIED OWNER,7,190.0
+851,Independent,Ready to move,3600 ,"5,277 / sq ft",Krishnarajapura,Bangalore,sellerVERIFIED OWNER,7,190.0
+852,Apartment,Ready to move,1500 ,"8,333 / sq ft",Sanjay Nagar,Bangalore,sellerVERIFIED OWNER,3,125.0
+853,Villa,Ready to move,2400 ,"3,708 / sq ft",Marsur,Bangalore,sellerVERIFIED OWNER,4,88.99
+854,Apartment,Ready to move,800 ,"6,000 / sq ft",Kumbalgodu,Bangalore,sellerVERIFIED OWNER,2,48.0
+855,Apartment,Under Construction,1421 ,"6,268 / sq ft",Varthur,Bangalore,ATZ PROPERTIES,3,89.06
+856,Apartment,Under Construction,1321 ,"6,294 / sq ft",Varthur,Bangalore,ATZ PROPERTIES,3,83.14
+857,Apartment,Under Construction,1102 ,"6,367 / sq ft",Varthur,Bangalore,ATZ PROPERTIES,2,70.16
+858,Apartment,Under Construction,1401 ,"6,272 / sq ft",Varthur,Bangalore,ATZ PROPERTIES,3,87.88
+859,Apartment,Under Construction,1100 ,"6,368 / sq ft",Varthur,Bangalore,ATZ PROPERTIES,2,70.05
+860,Apartment,Ready to move,880 ,"6,250 / sq ft",Kumbalgodu,Bangalore,sellerVERIFIED OWNER,2,55.0
+861,Apartment,Ready to move,880 ,"6,818 / sq ft",Kumbalgodu,Bangalore,sellerVERIFIED OWNER,2,60.0
+862,Independent,Ready to move,7000 ,"6,071 / sq ft",Banashankari,Bangalore,sellerVERIFIED OWNER,4,425.0
+863,Independent,Ready to move,4000 ,"11,250 / sq ft",Sanjay Nagar,Bangalore,sellerVERIFIED OWNER,4,450.0
+864,Apartment,Ready to move,1100 ,"5,636 / sq ft",RR Nagar,Bangalore,sellerVERIFIED OWNER,2,62.0
+865,Independent,Ready to move,1800 ,"7,166 / sq ft",Nagarbhavi,Bangalore,sellerVERIFIED OWNER,3,129.0
+866,Apartment,Ready to move,1200 ,"4,250 / sq ft",Begur,Bangalore,sellerVERIFIED OWNER,2,51.0
+867,Independent,Ready to move,6600 ,"3,333 / sq ft",Horamavu,Bangalore,sellerVERIFIED OWNER,10,220.0
+868,Apartment,Ready to move,1168 ,"7,534 / sq ft",RR Nagar,Bangalore,sellerVERIFIED OWNER,2,88.0
+869,Apartment,Under Construction,1673 ,"6,335 / sq ft",Sarjapur,Bangalore,sellerVERIFIED OWNER,3,106.0
+870,Villa,Ready to move,3418 ,"8,045 / sq ft",Sarjapur,Bangalore,sellerVERIFIED OWNER,4,275.0
+871,Independent,Ready to move,1700 ,"6,470 / sq ft",BTM Layout,Bangalore,sellerVERIFIED OWNER,3,110.0
+872,Apartment,Ready to move,1040 ,"4,807 / sq ft",Bellandur,Bangalore,sellerVERIFIED OWNER,2,50.0
+873,Apartment,Ready to move,1619 ,"5,806 / sq ft",Whitefield Hope Farm Junction,Bangalore,sellerVERIFIED OWNER,3,94.0
+874,Apartment,Under Construction,1570 ,"7,515 / sq ft",ITPL,Bangalore,Godrej Properties Ltd,3,118.0
+875,Apartment,Under Construction,1817 ,"7,539 / sq ft",ITPL,Bangalore,Godrej Properties Ltd,3,137.0
+876,Apartment,Under Construction,1761 ,"7,722 / sq ft",ITPL,Bangalore,Godrej Properties Ltd,3,136.0
+877,Apartment,Under Construction,760 ,"8,026 / sq ft",ITPL,Bangalore,Godrej Properties Ltd,1,61.0
+878,Independent,Ready to move,2250 ,"8,888 / sq ft",Banashankari,Bangalore,sellerVERIFIED OWNER,6,200.0
+879,Apartment,Ready to move,1500 ,"4,333 / sq ft",Subramanyapura,Bangalore,sellerVERIFIED OWNER,3,65.0
